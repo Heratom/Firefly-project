@@ -1,0 +1,616 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (ARSAL_Print_PrintRaw)
+libardiscovery.so             /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (ARDISCOVERY_getProductID)
+libjson.so                    /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (json_tokener_parse)
+libpthread.so.0               /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (fsync@@GLIBC_2.2.5)
+libc.so.6                     /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o (fflush@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libardiscovery.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libjson.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x164
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x164 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x0000000000000358      0x8d0
+ *(.dynsym)
+ .dynsym        0x0000000000000358      0x8d0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000c28      0x694
+ *(.dynstr)
+ .dynstr        0x0000000000000c28      0x694 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x00000000000012bc       0xbc
+ *(.gnu.version)
+ .gnu.version   0x00000000000012bc       0xbc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000001378        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000001378       0x80
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001378       0x80 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x00000000000013f8       0xf0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel
+                0x00000000000013f8       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001410       0xa8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x00000000000014b8       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x00000000000014d0       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x00000000000014e8      0x660
+ *(.rela.plt)
+ .rela.plt      0x00000000000014e8      0x660 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000001b48       0x1a
+ *(SORT(.init))
+ .init          0x0000000000001b48       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000001b48                _init
+ .init          0x0000000000001b5d        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000001b70      0x450
+ *(.plt)
+ .plt           0x0000000000001b70      0x450 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.text           0x0000000000001fc0     0x7639
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000001fc0       0xe5 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x00000000000020a5        0xb 
+ .text.ARMEDIA_Error_ToString
+                0x00000000000020b0      0x102 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+                0x00000000000020b0                ARMEDIA_Error_ToString
+ *fill*         0x00000000000021b2        0xe 
+ .text.ARMEDIA_H264StartcodeMatch
+                0x00000000000021c0       0x4d /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ *fill*         0x000000000000220d        0x3 
+ .text.ARMEDIA_VideoEncapsuler_New
+                0x0000000000002210        0xf /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000002210                ARMEDIA_VideoEncapsuler_New
+ *fill*         0x000000000000221f        0x1 
+ .text.ARMEDIA_VideoEncapsuler_AddFrame
+                0x0000000000002220      0xf96 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000002220                ARMEDIA_VideoEncapsuler_AddFrame
+ *fill*         0x00000000000031b6        0xa 
+ .text.ARMEDIA_VideoEncapsuler_AddSample
+                0x00000000000031c0      0xc7a /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x00000000000031c0                ARMEDIA_VideoEncapsuler_AddSample
+ *fill*         0x0000000000003e3a        0x6 
+ .text.ARMEDIA_VideoEncapsuler_Finish
+                0x0000000000003e40     0x1aeb /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000003e40                ARMEDIA_VideoEncapsuler_Finish
+ *fill*         0x000000000000592b        0x5 
+ .text.ARMEDIA_VideoEncapsuler_SetGPSInfos
+                0x0000000000005930       0x26 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000005930                ARMEDIA_VideoEncapsuler_SetGPSInfos
+ *fill*         0x0000000000005956        0xa 
+ .text.ARMEDIA_VideoEncapsuler_TryFixMediaFile
+                0x0000000000005960     0x1171 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000005960                ARMEDIA_VideoEncapsuler_TryFixMediaFile
+ *fill*         0x0000000000006ad1        0xf 
+ .text.ARMEDIA_VideoEncapsuler_changePVATAtomDate
+                0x0000000000006ae0      0x1d0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000006ae0                ARMEDIA_VideoEncapsuler_changePVATAtomDate
+ .text.ARMEDIA_VideoEncapsuler_addPVATAtom
+                0x0000000000006cb0      0x1ab /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                0x0000000000006cb0                ARMEDIA_VideoEncapsuler_addPVATAtom
+ *fill*         0x0000000000006e5b        0x5 
+ .text.atomFromData
+                0x0000000000006e60       0x88 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000006e60                atomFromData
+ *fill*         0x0000000000006ee8        0x8 
+ .text.insertAtomIntoAtom
+                0x0000000000006ef0       0xcc /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000006ef0                insertAtomIntoAtom
+ *fill*         0x0000000000006fbc        0x4 
+ .text.writeAtomToFile
+                0x0000000000006fc0       0xde /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000006fc0                writeAtomToFile
+ *fill*         0x000000000000709e        0x2 
+ .text.freeAtom
+                0x00000000000070a0       0x33 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000070a0                freeAtom
+ *fill*         0x00000000000070d3        0xd 
+ .text.ftypAtomForFormatAndCodecWithOffset
+                0x00000000000070e0      0x14c /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000070e0                ftypAtomForFormatAndCodecWithOffset
+ *fill*         0x000000000000722c        0x4 
+ .text.mdatAtomForFormatWithVideoSize
+                0x0000000000007230       0xb4 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007230                mdatAtomForFormatWithVideoSize
+ *fill*         0x00000000000072e4        0xc 
+ .text.mvhdAtomFromFpsNumFramesAndDate
+                0x00000000000072f0      0x1f4 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000072f0                mvhdAtomFromFpsNumFramesAndDate
+ *fill*         0x00000000000074e4        0xc 
+ .text.tkhdAtomWithResolutionNumFramesFpsAndDate
+                0x00000000000074f0      0x234 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000074f0                tkhdAtomWithResolutionNumFramesFpsAndDate
+ *fill*         0x0000000000007724        0xc 
+ .text.mdhdAtomFromFpsNumFramesAndDate
+                0x0000000000007730       0xc4 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007730                mdhdAtomFromFpsNumFramesAndDate
+ *fill*         0x00000000000077f4        0xc 
+ .text.hdlrAtomForMdia
+                0x0000000000007800      0x12c /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007800                hdlrAtomForMdia
+ *fill*         0x000000000000792c        0x4 
+ .text.smhdAtomGen
+                0x0000000000007930       0x4a /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007930                smhdAtomGen
+ *fill*         0x000000000000797a        0x6 
+ .text.vmhdAtomGen
+                0x0000000000007980       0x57 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007980                vmhdAtomGen
+ *fill*         0x00000000000079d7        0x9 
+ .text.hdlrAtomForMinf
+                0x00000000000079e0       0xf5 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000079e0                hdlrAtomForMinf
+ *fill*         0x0000000000007ad5        0xb 
+ .text.drefAtomGen
+                0x0000000000007ae0       0xa5 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007ae0                drefAtomGen
+ *fill*         0x0000000000007b85        0xb 
+ .text.stsdAtomWithResolutionAndCodec
+                0x0000000000007b90      0x7e1 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000007b90                stsdAtomWithResolutionAndCodec
+ *fill*         0x0000000000008371        0xf 
+ .text.stsdAtomWithAudioCodec
+                0x0000000000008380      0x16c /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008380                stsdAtomWithAudioCodec
+ *fill*         0x00000000000084ec        0x4 
+ .text.stsdAtomWithResolutionCodecSpsAndPps
+                0x00000000000084f0      0x2d0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000084f0                stsdAtomWithResolutionCodecSpsAndPps
+ .text.stscAtomGen
+                0x00000000000087c0       0xdc /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000087c0                stscAtomGen
+ *fill*         0x000000000000889c        0x4 
+ .text.stszAtomGen
+                0x00000000000088a0      0x104 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000088a0                stszAtomGen
+ *fill*         0x00000000000089a4        0xc 
+ .text.metadataAtomFromTagAndValue
+                0x00000000000089b0      0x10b /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000089b0                metadataAtomFromTagAndValue
+ *fill*         0x0000000000008abb        0x5 
+ .text.pvatAtomGen
+                0x0000000000008ac0       0x1b /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008ac0                pvatAtomGen
+ *fill*         0x0000000000008adb        0x5 
+ .text.createDataFromAtom
+                0x0000000000008ae0       0x51 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008ae0                createDataFromAtom
+ *fill*         0x0000000000008b31        0xf 
+ .text.getVideoFpsFromAtom
+                0x0000000000008b40       0x13 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008b40                getVideoFpsFromAtom
+ *fill*         0x0000000000008b53        0xd 
+ .text.swap_uint64
+                0x0000000000008b60       0x18 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008b60                swap_uint64
+ *fill*         0x0000000000008b78        0x8 
+ .text.seekMediaFileToAtom
+                0x0000000000008b80      0x2b1 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008b80                seekMediaFileToAtom
+ *fill*         0x0000000000008e31        0xf 
+ .text.createDataFromFile
+                0x0000000000008e40      0x47b /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000008e40                createDataFromFile
+ *fill*         0x00000000000092bb        0x5 
+ .text.getVideoFpsFromFile
+                0x00000000000092c0       0xf3 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000092c0                getVideoFpsFromFile
+ *fill*         0x00000000000093b3        0xd 
+ .text.seekMediaBufferToAtom
+                0x00000000000093c0       0x96 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x00000000000093c0                seekMediaBufferToAtom
+ *fill*         0x0000000000009456        0xa 
+ .text.ARMEDIA_VideoAtom_GetPVATString
+                0x0000000000009460      0x199 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                0x0000000000009460                ARMEDIA_VideoAtom_GetPVATString
+ *(.gnu.warning)
+
+.fini           0x00000000000095fc        0x9
+ *(SORT(.fini))
+ .fini          0x00000000000095fc        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x00000000000095fc                _fini
+ .fini          0x0000000000009600        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000009605                PROVIDE (__etext, .)
+                0x0000000000009605                PROVIDE (_etext, .)
+                0x0000000000009605                PROVIDE (etext, .)
+
+.rodata         0x0000000000009620     0x15a4
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000009620       0xd6 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ *fill*         0x00000000000096f6        0x2 
+ .rodata.str1.8
+                0x00000000000096f8       0xb4 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .rodata.str1.1
+                0x00000000000097ac       0x88 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ *fill*         0x0000000000009834        0x4 
+ .rodata.str1.8
+                0x0000000000009838     0x1020 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ *fill*         0x000000000000a858        0x8 
+ .rodata        0x000000000000a860      0x161 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ *fill*         0x000000000000a9c1        0x7 
+ .rodata.str1.8
+                0x000000000000a9c8      0x128 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .rodata.str1.1
+                0x000000000000aaf0       0x9e /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                                         0xe4 (size before relaxing)
+ *fill*         0x000000000000ab8e        0x2 
+ .rodata        0x000000000000ab90       0x34 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x000000000000abc4      0x144
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x000000000000abc4      0x144 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+
+.eh_frame       0x000000000000ad08      0x8b4
+ *(.eh_frame)
+ .eh_frame      0x000000000000ad08       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x000000000000ad48       0x30 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .eh_frame      0x000000000000ad78      0x220 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                                        0x228 (size before relaxing)
+ .eh_frame      0x000000000000af98      0x620 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                                        0x5f0 (size before relaxing)
+ .eh_frame      0x000000000000b5b8        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000000b5bc                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x000000000020bd9c                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000020bda0        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000020bda0        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.fini_array     0x000000000020bda8        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000020bda8        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x000000000020bdb0        0x8
+ *(.jcr)
+ .jcr           0x000000000020bdb0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .jcr           0x000000000020bdb0        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x000000000020bdb8      0x210
+ *(.dynamic)
+ .dynamic       0x000000000020bdb8      0x210 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020bdb8                _DYNAMIC
+
+.got            0x000000000020bfc8       0x38
+ *(.got)
+ .got           0x000000000020bfc8       0x38 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000020cfe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000020c000      0x238
+ *(.got.plt)
+ .got.plt       0x000000000020c000      0x238 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020c000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000020c238        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel      0x000000000020c238        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                0x000000000020c238                __dso_handle
+
+.tm_clone_table
+                0x000000000020c240        0x0
+ .tm_clone_table
+                0x000000000020c240        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .tm_clone_table
+                0x000000000020c240        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000020c240                _edata = .
+                0x000000000020c240                PROVIDE (edata, .)
+                0x000000000020c240                . = .
+                0x000000000020c240                __bss_start = .
+
+.bss            0x000000000020c240        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000020c240        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *(COMMON)
+                0x000000000020c248                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000020c241        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000020c248                . = ALIGN (0x8)
+                0x000000000020c248                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000060c248        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000060c248                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000060c248                . = ALIGN (0x8)
+                0x000000000060c248                _end = .
+                0x000000000060c248                PROVIDE (end, .)
+                0x000000000060c248                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                                         0x2c (size before relaxing)
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x2d0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_aranges
+                0x0000000000000030       0xb0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_aranges
+                0x00000000000000e0      0x1f0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xba66
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0xdb /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_info    0x00000000000000db     0x7b3b /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_info    0x0000000000007c16     0x3e50 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_abbrev   0x0000000000000000      0x9c6
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x76 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_abbrev  0x0000000000000076      0x478 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_abbrev  0x00000000000004ee      0x4d8 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_line     0x0000000000000000     0x1ca6
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0xf6 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_line    0x00000000000000f6      0xf12 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_line    0x0000000000001008      0xc9e /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x1ae0
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x2b7 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+                                        0x2d0 (size before relaxing)
+ .debug_str     0x00000000000002b7     0x145c /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+                                       0x17d9 (size before relaxing)
+ .debug_str     0x0000000000001713      0x3cd /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+                                        0xfd0 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0xf75d
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x6565 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_loc     0x0000000000006565     0x91f8 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x1e30
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x20 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/gen/Sources/ARMEDIA_Error.c.o
+ .debug_ranges  0x0000000000000020      0xb40 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoEncapsuler.c.o
+ .debug_ranges  0x0000000000000b60     0x12d0 /home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/obj/Sources/ARMEDIA_VideoAtoms.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/heratom/Firefly-project/out/arsdk-native/build/libARMedia/libarmedia.so elf64-x86-64)

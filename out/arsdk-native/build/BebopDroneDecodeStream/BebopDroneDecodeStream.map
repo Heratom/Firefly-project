@@ -1,0 +1,830 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                              /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o (__libc_csu_init)
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (ARSAL_Mutex_Lock)
+libarcommands.so              /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (ARCOMMANDS_Generator_GenerateCommonCommonCurrentTime)
+libarnetwork.so               /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (ARNETWORK_Manager_ReceivingThreadRun)
+libarnetworkal.so             /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (ARNETWORKAL_Error_ToString)
+libardiscovery.so             /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (ARDISCOVERY_Connection_New)
+libarstream.so                /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (ARSTREAM_Reader_New)
+libncurses.so.5               /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o (delwin)
+libtinfo.so.5                 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o (wtimeout)
+libavcodec.so.54              /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o (avcodec_open2@@LIBAVCODEC_54)
+libavutil.so.52               /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o (av_log_set_level@@LIBAVUTIL_52)
+libpthread.so.0               /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (__errno_location@@GLIBC_2.2.5)
+libc.so.6                     /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o (mkdtemp@@GLIBC_2.2.5)
+
+Allocating common symbols
+Common symbol       size              file
+
+gErrorStr           0x800             /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+
+Discarded input sections
+
+ .rodata.cst4   0x0000000000000000        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .text.unregisterARCommandsCallbacks
+                0x0000000000000000       0x1a /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+ .data          0x0000000000000000        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .bss           0x0000000000000000        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarcommands.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarnetwork.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarnetworkal.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libardiscovery.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarstream.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libncurses.so
+LOAD /lib/x86_64-linux-gnu/libncurses.so.5
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libtinfo.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libavcodec.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libavformat.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libswscale.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libavutil.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000400000                PROVIDE (__executable_start, 0x400000)
+                0x0000000000400238                . = (0x400000 + SIZEOF_HEADERS)
+
+.interp         0x0000000000400238       0x1c
+ *(.interp)
+ .interp        0x0000000000400238       0x1c /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.note.ABI-tag   0x0000000000400254       0x20
+ .note.ABI-tag  0x0000000000400254       0x20 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.note.gnu.build-id
+                0x0000000000400274       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000400274       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x0000000000400298       0x28
+ *(.gnu.hash)
+ .gnu.hash      0x0000000000400298       0x28 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.dynsym         0x00000000004002c0      0xac8
+ *(.dynsym)
+ .dynsym        0x00000000004002c0      0xac8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.dynstr         0x0000000000400d88      0xa62
+ *(.dynstr)
+ .dynstr        0x0000000000400d88      0xa62 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.gnu.version    0x00000000004017ea       0xe6
+ *(.gnu.version)
+ .gnu.version   0x00000000004017ea       0xe6 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.gnu.version_d  0x00000000004018d0        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.gnu.version_r  0x00000000004018d0       0xa0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000004018d0       0xa0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.rela.dyn       0x0000000000401970       0x90
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000401970       0x90 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ .rela.bss      0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+
+.rela.plt       0x0000000000401a00      0x978
+ *(.rela.plt)
+ .rela.plt      0x0000000000401a00      0x978 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x0000000000402378                PROVIDE (__rela_iplt_start, .)
+ *(.rela.iplt)
+ .rela.iplt     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x0000000000402378                PROVIDE (__rela_iplt_end, .)
+
+.init           0x0000000000402378       0x1a
+ *(SORT(.init))
+ .init          0x0000000000402378       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000402378                _init
+ .init          0x000000000040238d        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x00000000004023a0      0x660
+ *(.plt)
+ .plt           0x00000000004023a0      0x660 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x00000000004023b0                dup2@@GLIBC_2.2.5
+                0x00000000004023c0                avcodec_decode_video2@@LIBAVCODEC_54
+                0x00000000004023d0                ARSTREAM_Reader_New
+                0x00000000004023e0                ARCOMMANDS_Generator_GenerateCommonSettingsAllSettings
+                0x00000000004023f0                ARNETWORK_Manager_Delete
+                0x0000000000402400                close@@GLIBC_2.2.5
+                0x0000000000402410                av_init_packet@@LIBAVCODEC_54
+                0x0000000000402420                wmove
+                0x0000000000402430                ARSAL_Thread_Join
+                0x0000000000402440                ARSAL_Thread_Destroy
+                0x0000000000402450                keypad
+                0x0000000000402470                ARSTREAM_Reader_Delete
+                0x0000000000402480                endwin
+                0x0000000000402490                ARNETWORKAL_Manager_Delete
+                0x00000000004024a0                ARNETWORKAL_Manager_New
+                0x00000000004024b0                malloc@@GLIBC_2.2.5
+                0x00000000004024c0                fopen@@GLIBC_2.2.5
+                0x00000000004024d0                ARSAL_Print_PrintRaw
+                0x00000000004024e0                __libc_start_main@@GLIBC_2.2.5
+                0x00000000004024f0                ARNETWORKAL_Manager_InitWifiNetwork
+                0x0000000000402500                execlp@@GLIBC_2.2.5
+                0x0000000000402510                unlink@@GLIBC_2.2.5
+                0x0000000000402520                ARCOMMANDS_Generator_GenerateARDrone3PilotingTakeOff
+                0x0000000000402530                rmdir@@GLIBC_2.2.5
+                0x0000000000402540                ARSTREAM_Reader_InitStreamAckBuffer
+                0x0000000000402550                delwin
+                0x0000000000402560                __vsnprintf_chk@@GLIBC_2.3.4
+                0x0000000000402570                initscr
+                0x0000000000402580                mvprintw
+                0x0000000000402590                ARCOMMANDS_Decoder_SetARDrone3PilotingStateFlyingStateChangedCallback
+                0x00000000004025a0                wclrtoeol
+                0x00000000004025b0                avpicture_get_size@@LIBAVCODEC_54
+                0x00000000004025c0                ARCOMMANDS_Generator_GenerateARDrone3PilotingLanding
+                0x00000000004025d0                free@@GLIBC_2.2.5
+                0x00000000004025e0                ARNETWORKAL_Manager_Unlock
+                0x00000000004025f0                avpicture_layout@@LIBAVCODEC_54
+                0x0000000000402600                ARCOMMANDS_Generator_GenerateARDrone3CameraOrientation
+                0x0000000000402610                avcodec_register_all@@LIBAVCODEC_54
+                0x0000000000402620                wrefresh
+                0x0000000000402630                avcodec_open2@@LIBAVCODEC_54
+                0x0000000000402640                wtimeout
+                0x0000000000402650                ARDISCOVERY_Connection_New
+                0x0000000000402660                ARCOMMANDS_Generator_GenerateCommonCommonCurrentDate
+                0x0000000000402670                ARCOMMANDS_Generator_GenerateARDrone3MediaStreamingVideoEnable
+                0x0000000000402680                ARNETWORK_Manager_SendData
+                0x0000000000402690                ARSTREAM_Reader_StopReader
+                0x00000000004026a0                ARSAL_Mutex_Lock
+                0x00000000004026b0                ARNETWORK_Manager_ReadDataWithTimeout
+                0x00000000004026c0                kill@@GLIBC_2.2.5
+                0x00000000004026d0                usleep@@GLIBC_2.2.5
+                0x00000000004026e0                strerror@@GLIBC_2.2.5
+                0x00000000004026f0                sigaction@@GLIBC_2.2.5
+                0x0000000000402700                av_free@@LIBAVUTIL_52
+                0x0000000000402710                cbreak
+                0x0000000000402720                ARSAL_Print_SetCallback
+                0x0000000000402730                ARNETWORKAL_Manager_CloseWifiNetwork
+                0x0000000000402740                ARCOMMANDS_Generator_GenerateARDrone3PilotingPCMD
+                0x0000000000402750                avcodec_close@@LIBAVCODEC_54
+                0x0000000000402760                ARSAL_Mutex_Init
+                0x0000000000402770                wgetch
+                0x0000000000402780                ARSAL_Mutex_Unlock
+                0x0000000000402790                ARNETWORKAL_Error_ToString
+                0x00000000004027a0                ARDISCOVERY_Connection_Delete
+                0x00000000004027b0                __errno_location@@GLIBC_2.2.5
+                0x00000000004027c0                ARCOMMANDS_Generator_GenerateARDrone3PilotingEmergency
+                0x00000000004027d0                ARCOMMANDS_Generator_GenerateCommonCommonAllStates
+                0x00000000004027e0                ARSTREAM_Reader_InitStreamDataBuffer
+                0x00000000004027f0                ARCOMMANDS_Decoder_DecodeBuffer
+                0x0000000000402800                __stack_chk_fail@@GLIBC_2.4
+                0x0000000000402810                ARNETWORK_Error_ToString
+                0x0000000000402820                avpicture_fill@@LIBAVCODEC_54
+                0x0000000000402830                ARCOMMANDS_Generator_GenerateCommonCommonCurrentTime
+                0x0000000000402840                avcodec_alloc_frame@@LIBAVCODEC_54
+                0x0000000000402850                ARSTREAM_Error_ToString
+                0x0000000000402860                avcodec_free_frame@@LIBAVCODEC_54
+                0x0000000000402870                ARSAL_Mutex_Destroy
+                0x0000000000402880                ARCOMMANDS_Decoder_SetCommonCommonStateBatteryStateChangedCallback
+                0x0000000000402890                ARCOMMANDS_Decoder_DescribeBuffer
+                0x00000000004028a0                ARNETWORK_Manager_New
+                0x00000000004028b0                mkdtemp@@GLIBC_2.2.5
+                0x00000000004028c0                calloc@@GLIBC_2.2.5
+                0x00000000004028d0                fclose@@GLIBC_2.2.5
+                0x00000000004028e0                strncpy@@GLIBC_2.2.5
+                0x00000000004028f0                avcodec_find_decoder@@LIBAVCODEC_54
+                0x0000000000402900                mkfifo@@GLIBC_2.2.5
+                0x0000000000402910                __sprintf_chk@@GLIBC_2.3.4
+                0x0000000000402920                ARNETWORK_Manager_Stop
+                0x0000000000402930                __snprintf_chk@@GLIBC_2.3.4
+                0x0000000000402940                fork@@GLIBC_2.2.5
+                0x0000000000402950                ARSAL_Thread_Create
+                0x0000000000402960                av_log_set_level@@LIBAVUTIL_52
+                0x0000000000402970                fwrite@@GLIBC_2.2.5
+                0x0000000000402980                realloc@@GLIBC_2.2.5
+                0x0000000000402990                ARDISCOVERY_Error_ToString
+                0x00000000004029a0                ARSAL_Time_GetLocalTime
+                0x00000000004029b0                strftime@@GLIBC_2.2.5
+                0x00000000004029c0                noecho
+                0x00000000004029d0                avcodec_alloc_context3@@LIBAVCODEC_54
+                0x00000000004029e0                open@@GLIBC_2.2.5
+                0x00000000004029f0                ARDISCOVERY_Connection_ControllerConnection
+ *(.iplt)
+ .iplt          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.text           0x0000000000402a00     0x48e2
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ .text.startup.main
+                0x0000000000402a00      0xbf5 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000402a00                main
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000004035f5       0x2a /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x00000000004035f5                _start
+ *fill*         0x000000000040361f        0x1 
+ .text          0x0000000000403620       0xbd /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ *fill*         0x00000000004036dd        0x3 
+ .text.ARCODECS_Manager_InitOutputFrame
+                0x00000000004036e0       0x55 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x00000000004036e0                ARCODECS_Manager_InitOutputFrame
+ *fill*         0x0000000000403735        0xb 
+ .text.ARCODECS_Manager_NewFFMPEGDecoder
+                0x0000000000403740       0xf9 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x0000000000403740                ARCODECS_Manager_NewFFMPEGDecoder
+ *fill*         0x0000000000403839        0x7 
+ .text.ARCODECS_Manager_DeleteFFMPEGDecoder
+                0x0000000000403840       0x8a /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x0000000000403840                ARCODECS_Manager_DeleteFFMPEGDecoder
+ *fill*         0x00000000004038ca        0x6 
+ .text.ARCODECS_Manager_Delete
+                0x00000000004038d0       0x3f /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x00000000004038d0                ARCODECS_Manager_Delete
+ *fill*         0x000000000040390f        0x1 
+ .text.ARCODECS_Manager_New
+                0x0000000000403910      0x192 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x0000000000403910                ARCODECS_Manager_New
+ *fill*         0x0000000000403aa2        0xe 
+ .text.ARCODECS_Manager_FFMPEGDecode
+                0x0000000000403ab0      0x25b /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x0000000000403ab0                ARCODECS_Manager_FFMPEGDecode
+ *fill*         0x0000000000403d0b        0x5 
+ .text.ARCODECS_Manager_Decode
+                0x0000000000403d10       0x67 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                0x0000000000403d10                ARCODECS_Manager_Decode
+ *fill*         0x0000000000403d77        0x9 
+ .text.signal_handler
+                0x0000000000403d80        0xe /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ *fill*         0x0000000000403d8e        0x2 
+ .text.getNextDataCallback
+                0x0000000000403d90       0x57 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000403d90                getNextDataCallback
+ *fill*         0x0000000000403de7        0x9 
+ .text.onDisconnectNetwork
+                0x0000000000403df0       0xc1 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000403df0                onDisconnectNetwork
+ *fill*         0x0000000000403eb1        0xf 
+ .text.arnetworkCmdCallback
+                0x0000000000403ec0       0xd4 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000403ec0                arnetworkCmdCallback
+ *fill*         0x0000000000403f94        0xc 
+ .text.flyingStateChangedCallback
+                0x0000000000403fa0       0x94 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000403fa0                flyingStateChangedCallback
+ *fill*         0x0000000000404034        0xc 
+ .text.readerRun
+                0x0000000000404040      0x264 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ *fill*         0x00000000004042a4        0xc 
+ .text.ARDISCOVERY_Connection_SendJsonCallback
+                0x00000000004042b0       0x97 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004042b0                ARDISCOVERY_Connection_SendJsonCallback
+ *fill*         0x0000000000404347        0x9 
+ .text.ARDISCOVERY_Connection_ReceiveJsonCallback
+                0x0000000000404350      0x10c /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000404350                ARDISCOVERY_Connection_ReceiveJsonCallback
+ *fill*         0x000000000040445c        0x4 
+ .text.batteryStateChangedCallback
+                0x0000000000404460       0x22 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000404460                batteryStateChangedCallback
+ *fill*         0x0000000000404482        0xe 
+ .text.customPrintCallback
+                0x0000000000404490       0x59 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000404490                customPrintCallback
+ *fill*         0x00000000004044e9        0x7 
+ .text.ardiscoveryConnect
+                0x00000000004044f0      0x22d /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004044f0                ardiscoveryConnect
+ *fill*         0x000000000040471d        0x3 
+ .text.startNetwork
+                0x0000000000404720      0x3fd /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000404720                startNetwork
+ *fill*         0x0000000000404b1d        0x3 
+ .text.stopNetwork
+                0x0000000000404b20      0x12b /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000404b20                stopNetwork
+ *fill*         0x0000000000404c4b        0x5 
+ .text.startVideo
+                0x0000000000404c50      0x2f8 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000404c50                startVideo
+ *fill*         0x0000000000404f48        0x8 
+ .text.stopVideo
+                0x0000000000404f50      0x116 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000404f50                stopVideo
+ *fill*         0x0000000000405066        0xa 
+ .text.sendPCMD
+                0x0000000000405070       0xc5 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405070                sendPCMD
+ *fill*         0x0000000000405135        0xb 
+ .text.sendCameraOrientation
+                0x0000000000405140       0xa5 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405140                sendCameraOrientation
+ *fill*         0x00000000004051e5        0xb 
+ .text.looperRun
+                0x00000000004051f0       0x38 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ *fill*         0x0000000000405228        0x8 
+ .text.sendDate
+                0x0000000000405230      0x2a0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405230                sendDate
+ .text.sendAllSettings
+                0x00000000004054d0      0x1cd /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004054d0                sendAllSettings
+ *fill*         0x000000000040569d        0x3 
+ .text.sendAllStates
+                0x00000000004056a0      0x1cd /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004056a0                sendAllStates
+ *fill*         0x000000000040586d        0x3 
+ .text.sendBeginStream
+                0x0000000000405870      0x1cd /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405870                sendBeginStream
+ *fill*         0x0000000000405a3d        0x3 
+ .text.sendTakeoff
+                0x0000000000405a40      0x1cd /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405a40                sendTakeoff
+ *fill*         0x0000000000405c0d        0x3 
+ .text.sendLanding
+                0x0000000000405c10      0x1cd /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405c10                sendLanding
+ *fill*         0x0000000000405ddd        0x3 
+ .text.sendEmergency
+                0x0000000000405de0      0x1cd /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405de0                sendEmergency
+ *fill*         0x0000000000405fad        0x3 
+ .text.onInputEvent
+                0x0000000000405fb0      0x1f8 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000405fb0                onInputEvent
+ *fill*         0x00000000004061a8        0x8 
+ .text.registerARCommandsCallbacks
+                0x00000000004061b0       0x23 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004061b0                registerARCommandsCallbacks
+ *fill*         0x00000000004061d3        0xd 
+ .text.startDecoder
+                0x00000000004061e0      0x2dd /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004061e0                startDecoder
+ *fill*         0x00000000004064bd        0x3 
+ .text.getFreeRawFrame
+                0x00000000004064c0      0x1f4 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004064c0                getFreeRawFrame
+ *fill*         0x00000000004066b4        0xc 
+ .text.getFrameFromData
+                0x00000000004066c0       0x60 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004066c0                getFrameFromData
+ .text.putRawFrameBackToPool
+                0x0000000000406720       0x24 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000406720                putRawFrameBackToPool
+ *fill*         0x0000000000406744        0xc 
+ .text.Decode_RunDataThread
+                0x0000000000406750      0x1e4 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000406750                Decode_RunDataThread
+ *fill*         0x0000000000406934        0xc 
+ .text.addFreeRawFrameToFifo
+                0x0000000000406940       0x8b /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000406940                addFreeRawFrameToFifo
+ *fill*         0x00000000004069cb        0x5 
+ .text.flushFifo
+                0x00000000004069d0       0x85 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x00000000004069d0                flushFifo
+ *fill*         0x0000000000406a55        0xb 
+ .text.frameCompleteCallback
+                0x0000000000406a60       0xb4 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000406a60                frameCompleteCallback
+ *fill*         0x0000000000406b14        0xc 
+ .text.stopDecoder
+                0x0000000000406b20      0x1d1 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x0000000000406b20                stopDecoder
+ *fill*         0x0000000000406cf1        0xf 
+ .text.IHM_InputProcessing
+                0x0000000000406d00      0x2c0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000406d00                IHM_InputProcessing
+ .text.IHM_Delete
+                0x0000000000406fc0       0x79 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000406fc0                IHM_Delete
+ *fill*         0x0000000000407039        0x7 
+ .text.IHM_New  0x0000000000407040       0xc6 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000407040                IHM_New
+ *fill*         0x0000000000407106        0xa 
+ .text.IHM_setCustomData
+                0x0000000000407110        0xb /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000407110                IHM_setCustomData
+ *fill*         0x000000000040711b        0x5 
+ .text.IHM_PrintHeader
+                0x0000000000407120       0x42 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000407120                IHM_PrintHeader
+ *fill*         0x0000000000407162        0xe 
+ .text.IHM_PrintInstruction
+                0x0000000000407170       0x4a /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000407170                IHM_PrintInstruction
+ *fill*         0x00000000004071ba        0x6 
+ .text.IHM_PrintInfo
+                0x00000000004071c0       0x4a /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x00000000004071c0                IHM_PrintInfo
+ *fill*         0x000000000040720a        0x6 
+ .text.IHM_PrintBattery
+                0x0000000000407210       0x52 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+                0x0000000000407210                IHM_PrintBattery
+ *fill*         0x0000000000407262        0xe 
+ .text          0x0000000000407270       0x72 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                0x0000000000407270                __libc_csu_init
+                0x00000000004072e0                __libc_csu_fini
+ *(.gnu.warning)
+
+.fini           0x00000000004072e4        0x9
+ *(SORT(.fini))
+ .fini          0x00000000004072e4        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x00000000004072e4                _fini
+ .fini          0x00000000004072e8        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000004072ed                PROVIDE (__etext, .)
+                0x00000000004072ed                PROVIDE (_etext, .)
+                0x00000000004072ed                PROVIDE (etext, .)
+
+.rodata         0x0000000000407300     0x1068
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000407300       0x37 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ *fill*         0x0000000000407337        0x1 
+ .rodata.str1.8
+                0x0000000000407338       0x3a /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ *fill*         0x0000000000407372        0xe 
+ .rodata        0x0000000000407380       0x35 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .rodata.str1.1
+                0x00000000004073b5      0x16f /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                                        0x196 (size before relaxing)
+ *fill*         0x0000000000407524        0x4 
+ .rodata.str1.8
+                0x0000000000407528      0xc60 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                                        0xc5a (size before relaxing)
+ *fill*         0x0000000000408188       0x18 
+ .rodata        0x00000000004081a0      0x1bc /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .rodata.str1.1
+                0x000000000040835c        0xc /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000408368      0x1c4
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000408368      0x1c4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.eh_frame       0x0000000000408530      0xc0c
+ *(.eh_frame)
+ .eh_frame      0x0000000000408530       0x30 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .eh_frame      0x0000000000408560       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ .eh_frame      0x00000000004085a0      0x178 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                                        0x170 (size before relaxing)
+ .eh_frame      0x0000000000408718      0x870 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                                        0x858 (size before relaxing)
+ .eh_frame      0x0000000000408f88      0x150 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+ .eh_frame      0x00000000004090d8       0x60 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x0000000000409138        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000040913c                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x0000000000609d34                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0000000000609d34        0x0
+                0x0000000000609d34                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0000000000609d34                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0000000000609d38        0x8
+                0x0000000000609d38                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000609d38        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+                0x0000000000609d40                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0000000000609d40        0x8
+                0x0000000000609d40                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000609d40        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+                0x0000000000609d48                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0000000000609d48        0x8
+ *(.jcr)
+ .jcr           0x0000000000609d48        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ .jcr           0x0000000000609d48        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000609d50      0x280
+ *(.dynamic)
+ .dynamic       0x0000000000609d50      0x280 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x0000000000609d50                _DYNAMIC
+
+.got            0x0000000000609fd0       0x30
+ *(.got)
+ .got           0x0000000000609fd0       0x30 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.igot)
+                0x000000000060afe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000060a000      0x340
+ *(.got.plt)
+ .got.plt       0x000000000060a000      0x340 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+                0x000000000060a000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+
+.data           0x000000000060a340       0xf2
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x000000000060a340       0xf2 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+
+.tm_clone_table
+                0x000000000060a438        0x0
+ .tm_clone_table
+                0x000000000060a438        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ .tm_clone_table
+                0x000000000060a438        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+
+.data1
+ *(.data1)
+                0x000000000060a438                _edata = .
+                0x000000000060a438                PROVIDE (edata, .)
+                0x000000000060a438                . = .
+                0x000000000060a438                __bss_start = .
+
+.bss            0x000000000060a440      0x8c0
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crt1.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000060a440        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+ *fill*         0x000000000060a441       0x1f 
+ .bss           0x000000000060a460       0xa0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x000000000060a460                gIHMRun
+ *(COMMON)
+ COMMON         0x000000000060a500      0x800 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                0x000000000060a500                gErrorStr
+                0x000000000060ad00                . = ALIGN ((. != 0x0)?0x8:0x1)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000060ad00                . = ALIGN (0x8)
+                0x000000000060ad00                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000a0ad00        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000a0ad00                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000a0ad00                . = ALIGN (0x8)
+                0x0000000000a0ad00                _end = .
+                0x0000000000a0ad00                PROVIDE (end, .)
+                0x0000000000a0ad00                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x4f
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbegin.o
+                                         0x2c (size before relaxing)
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+ .comment       0x000000000000002b       0x24 /usr/lib/x86_64-linux-gnu/libc_nonshared.a(elf-init.oS)
+                                         0x25 (size before relaxing)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtend.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x3b0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x90 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .debug_aranges
+                0x0000000000000090      0x280 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .debug_aranges
+                0x0000000000000310       0xa0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xf6f1
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x3f9b /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .debug_info    0x0000000000003f9b     0xabf1 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .debug_info    0x000000000000eb8c      0xb65 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.debug_abbrev   0x0000000000000000      0xc07
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x3d2 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .debug_abbrev  0x00000000000003d2      0x596 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .debug_abbrev  0x0000000000000968      0x29f /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.debug_line     0x0000000000000000     0x1507
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x3e2 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .debug_line    0x00000000000003e2      0xe80 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .debug_line    0x0000000000001262      0x2a5 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x6c70
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x401a /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+                                       0x5bf1 (size before relaxing)
+ .debug_str     0x000000000000401a     0x2b98 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+                                       0x85b1 (size before relaxing)
+ .debug_str     0x0000000000006bb2       0xbe /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+                                        0x784 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x3fbf
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x99e /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .debug_loc     0x000000000000099e     0x33b1 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .debug_loc     0x0000000000003d4f      0x270 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0xc90
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0xd0 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/DecoderManager.c.o
+ .debug_ranges  0x00000000000000d0      0xb30 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/BebopDroneDecodeStream.c.o
+ .debug_ranges  0x0000000000000c00       0x90 /home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/obj/ihm.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/heratom/Firefly-project/out/arsdk-native/build/BebopDroneDecodeStream/BebopDroneDecodeStream elf64-x86-64)

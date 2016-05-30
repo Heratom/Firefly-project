@@ -1,0 +1,946 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o (ARSAL_Mutex_Lock)
+libm.so.6                     /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o (log@@GLIBC_2.2.5)
+libpthread.so.0               /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o (__errno_location@@GLIBC_2.2.5)
+libc.so.6                     /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o (fopen@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text.writeBits_expGolomb_code.constprop.10
+                0x0000000000000000      0x211 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x274
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x274 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x0000000000000468      0xc30
+ *(.dynsym)
+ .dynsym        0x0000000000000468      0xc30 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000001098      0xd28
+ *(.dynstr)
+ .dynstr        0x0000000000001098      0xd28 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000001dc0      0x104
+ *(.gnu.version)
+ .gnu.version   0x0000000000001dc0      0x104 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000001ec8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000001ec8       0x90
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001ec8       0x90 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001f58      0x570
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel
+                0x0000000000001f58       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro.local
+                0x0000000000001f70      0x498 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000002408       0x90 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000002498       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x00000000000024b0       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x00000000000024c8      0x8d0
+ *(.rela.plt)
+ .rela.plt      0x00000000000024c8      0x8d0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000002d98       0x1a
+ *(SORT(.init))
+ .init          0x0000000000002d98       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000002d98                _init
+ .init          0x0000000000002dad        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000002dc0      0x5f0
+ *(.plt)
+ .plt           0x0000000000002dc0      0x5f0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.text           0x00000000000033b0    0x2f040
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000000033b0       0xe5 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x0000000000003495        0xb 
+ .text.ARSTREAM2_Error_ToString
+                0x00000000000034a0       0xd8 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+                0x00000000000034a0                ARSTREAM2_Error_ToString
+ *fill*         0x0000000000003578        0x8 
+ .text.ARSTREAM2_H264Filter_resetCurrentAu
+                0x0000000000003580       0xa7 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ *fill*         0x0000000000003627        0x9 
+ .text.ARSTREAM2_H264Filter_enqueueCurrentAu
+                0x0000000000003630      0x4d9 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ *fill*         0x0000000000003b09        0x7 
+ .text.ARSTREAM2_H264Filter_RtpReceiverNaluCallback
+                0x0000000000003b10     0x301a /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000003b10                ARSTREAM2_H264Filter_RtpReceiverNaluCallback
+ *fill*         0x0000000000006b2a        0x6 
+ .text.ARSTREAM2_H264Filter_GetSpsPps
+                0x0000000000006b30      0x12b /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000006b30                ARSTREAM2_H264Filter_GetSpsPps
+ *fill*         0x0000000000006c5b        0x5 
+ .text.ARSTREAM2_H264Filter_RunFilterThread
+                0x0000000000006c60      0x176 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000006c60                ARSTREAM2_H264Filter_RunFilterThread
+ *fill*         0x0000000000006dd6        0xa 
+ .text.ARSTREAM2_H264Filter_Start
+                0x0000000000006de0      0x255 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000006de0                ARSTREAM2_H264Filter_Start
+ *fill*         0x0000000000007035        0xb 
+ .text.ARSTREAM2_H264Filter_Pause
+                0x0000000000007040      0x155 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000007040                ARSTREAM2_H264Filter_Pause
+ *fill*         0x0000000000007195        0xb 
+ .text.ARSTREAM2_H264Filter_Stop
+                0x00000000000071a0       0xf4 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x00000000000071a0                ARSTREAM2_H264Filter_Stop
+ *fill*         0x0000000000007294        0xc 
+ .text.ARSTREAM2_H264Filter_Init
+                0x00000000000072a0      0xbb1 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x00000000000072a0                ARSTREAM2_H264Filter_Init
+ *fill*         0x0000000000007e51        0xf 
+ .text.ARSTREAM2_H264Filter_Free
+                0x0000000000007e60      0x24f /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                0x0000000000007e60                ARSTREAM2_H264Filter_Free
+ *fill*         0x00000000000080af        0x1 
+ .text.readBits
+                0x00000000000080b0      0x1d6 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000008286        0xa 
+ .text.ARSTREAM2_H264Parser_StartcodeMatch_buffer.isra.1
+                0x0000000000008290       0x42 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x00000000000082d2        0xe 
+ .text.ARSTREAM2_H264Parser_ParseFillerData
+                0x00000000000082e0       0xbd /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x000000000000839d        0x3 
+ .text.moreRbspData.part.3
+                0x00000000000083a0       0xb6 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000008456        0xa 
+ .text.ARSTREAM2_H264Parser_StartcodeMatch_file.isra.7
+                0x0000000000008460      0x178 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x00000000000085d8        0x8 
+ .text.readBits_expGolomb_se.constprop.9
+                0x00000000000085e0      0x249 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000008829        0x7 
+ .text.ARSTREAM2_H264Parser_ParseScalingList
+                0x0000000000008830      0x4a4 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000008cd4        0xc 
+ .text.readBits_expGolomb_ue.constprop.10
+                0x0000000000008ce0      0x231 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000008f11        0xf 
+ .text.ARSTREAM2_H264Parser_ParseAud
+                0x0000000000008f20      0x46f /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x000000000000938f        0x1 
+ .text.ARSTREAM2_H264Parser_ParseHrdParams
+                0x0000000000009390     0x11ef /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x000000000000a57f        0x1 
+ .text.ARSTREAM2_H264Parser_ParseSlice
+                0x000000000000a580     0x44de /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x000000000000ea5e        0x2 
+ .text.ARSTREAM2_H264Parser_ParsePps
+                0x000000000000ea60     0x2e31 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000011891        0xf 
+ .text.ARSTREAM2_H264Parser_ParseSeiPayload_picTiming.isra.5
+                0x00000000000118a0     0x2b26 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x00000000000143c6        0xa 
+ .text.ARSTREAM2_H264Parser_ParseVui
+                0x00000000000143d0     0x3a74 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x0000000000017e44        0xc 
+ .text.ARSTREAM2_H264Parser_ParseSps
+                0x0000000000017e50     0x313f /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x000000000001af8f        0x1 
+ .text.ARSTREAM2_H264Parser_ParseSei
+                0x000000000001af90     0x234a /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *fill*         0x000000000001d2da        0x6 
+ .text.ARSTREAM2_H264Parser_ParseNalu
+                0x000000000001d2e0      0x49c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001d2e0                ARSTREAM2_H264Parser_ParseNalu
+ *fill*         0x000000000001d77c        0x4 
+ .text.ARSTREAM2_H264Parser_ReadNextNalu_file
+                0x000000000001d780      0x632 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001d780                ARSTREAM2_H264Parser_ReadNextNalu_file
+ *fill*         0x000000000001ddb2        0xe 
+ .text.ARSTREAM2_H264Parser_ReadNextNalu_buffer
+                0x000000000001ddc0      0x50d /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001ddc0                ARSTREAM2_H264Parser_ReadNextNalu_buffer
+ *fill*         0x000000000001e2cd        0x3 
+ .text.ARSTREAM2_H264Parser_SetupNalu_buffer
+                0x000000000001e2d0      0x180 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001e2d0                ARSTREAM2_H264Parser_SetupNalu_buffer
+ .text.ARSTREAM2_H264Parser_GetLastNaluType
+                0x000000000001e450       0xcd /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001e450                ARSTREAM2_H264Parser_GetLastNaluType
+ *fill*         0x000000000001e51d        0x3 
+ .text.ARSTREAM2_H264Parser_GetSliceInfo
+                0x000000000001e520      0x1b0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001e520                ARSTREAM2_H264Parser_GetSliceInfo
+ .text.ARSTREAM2_H264Parser_GetUserDataSeiCount
+                0x000000000001e6d0       0xd3 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001e6d0                ARSTREAM2_H264Parser_GetUserDataSeiCount
+ *fill*         0x000000000001e7a3        0xd 
+ .text.ARSTREAM2_H264Parser_GetUserDataSei
+                0x000000000001e7b0      0x1b1 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001e7b0                ARSTREAM2_H264Parser_GetUserDataSei
+ *fill*         0x000000000001e961        0xf 
+ .text.ARSTREAM2_H264Parser_GetSpsPpsContext
+                0x000000000001e970      0x179 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001e970                ARSTREAM2_H264Parser_GetSpsPpsContext
+ *fill*         0x000000000001eae9        0x7 
+ .text.ARSTREAM2_H264Parser_GetSliceContext
+                0x000000000001eaf0      0x160 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001eaf0                ARSTREAM2_H264Parser_GetSliceContext
+ .text.ARSTREAM2_H264Parser_Init
+                0x000000000001ec50      0x1b4 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001ec50                ARSTREAM2_H264Parser_Init
+ *fill*         0x000000000001ee04        0xc 
+ .text.ARSTREAM2_H264Parser_Free
+                0x000000000001ee10       0x5e /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                0x000000000001ee10                ARSTREAM2_H264Parser_Free
+ *fill*         0x000000000001ee6e        0x2 
+ .text.ARSTREAM2_H264Sei_SerializeUserDataParrotStreamingV1
+                0x000000000001ee70       0xb8 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+                0x000000000001ee70                ARSTREAM2_H264Sei_SerializeUserDataParrotStreamingV1
+ *fill*         0x000000000001ef28        0x8 
+ .text.ARSTREAM2_H264Sei_DeserializeUserDataParrotStreamingV1
+                0x000000000001ef30       0xb6 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+                0x000000000001ef30                ARSTREAM2_H264Sei_DeserializeUserDataParrotStreamingV1
+ *fill*         0x000000000001efe6        0xa 
+ .text.ARSTREAM2_H264Sei_IsUserDataParrotStreamingV1
+                0x000000000001eff0       0x56 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+                0x000000000001eff0                ARSTREAM2_H264Sei_IsUserDataParrotStreamingV1
+ *fill*         0x000000000001f046        0xa 
+ .text.writeBits
+                0x000000000001f050      0x12f /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ *fill*         0x000000000001f17f        0x1 
+ .text.writeBits_expGolomb_ue.constprop.7
+                0x000000000001f180      0x345 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ *fill*         0x000000000001f4c5        0xb 
+ .text.writeBits_expGolomb_se.constprop.8
+                0x000000000001f4d0      0x53f /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ *fill*         0x000000000001fa0f        0x1 
+ .text.ARSTREAM2_H264Writer_WriteSliceHeader
+                0x000000000001fa10     0x314c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ *fill*         0x0000000000022b5c        0x4 
+ .text.ARSTREAM2_H264Writer_WriteSeiNalu
+                0x0000000000022b60     0x2e48 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                0x0000000000022b60                ARSTREAM2_H264Writer_WriteSeiNalu
+ *fill*         0x00000000000259a8        0x8 
+ .text.ARSTREAM2_H264Writer_WriteSkippedPSliceNalu
+                0x00000000000259b0      0x89d /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                0x00000000000259b0                ARSTREAM2_H264Writer_WriteSkippedPSliceNalu
+ *fill*         0x000000000002624d        0x3 
+ .text.ARSTREAM2_H264Writer_WriteGrayISliceNalu
+                0x0000000000026250      0xaba /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                0x0000000000026250                ARSTREAM2_H264Writer_WriteGrayISliceNalu
+ *fill*         0x0000000000026d0a        0x6 
+ .text.ARSTREAM2_H264Writer_SetSpsPpsContext
+                0x0000000000026d10       0xb6 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                0x0000000000026d10                ARSTREAM2_H264Writer_SetSpsPpsContext
+ *fill*         0x0000000000026dc6        0xa 
+ .text.ARSTREAM2_H264Writer_Init
+                0x0000000000026dd0       0x67 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                0x0000000000026dd0                ARSTREAM2_H264Writer_Init
+ *fill*         0x0000000000026e37        0x9 
+ .text.ARSTREAM2_H264Writer_Free
+                0x0000000000026e40       0x1e /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                0x0000000000026e40                ARSTREAM2_H264Writer_Free
+ *fill*         0x0000000000026e5e        0x2 
+ .text.ARSTREAM2_RtpReceiver_CheckBufferSize
+                0x0000000000026e60      0x11e /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ *fill*         0x0000000000026f7e        0x2 
+ .text.ARSTREAM2_RtpReceiver_RtpResender_NaluCallback
+                0x0000000000026f80       0x48 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ *fill*         0x0000000000026fc8        0x8 
+ .text.ARSTREAM2_RtpReceiver_ResendNalu
+                0x0000000000026fd0      0x5eb /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ *fill*         0x00000000000275bb        0x5 
+ .text.ARSTREAM2_RtpReceiver_OutputNalu
+                0x00000000000275c0       0xd5 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ *fill*         0x0000000000027695        0xb 
+ .text.ARSTREAM2_RtpReceiver_New
+                0x00000000000276a0      0x80c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x00000000000276a0                ARSTREAM2_RtpReceiver_New
+ *fill*         0x0000000000027eac        0x4 
+ .text.ARSTREAM2_RtpReceiver_InvalidateNaluBuffer
+                0x0000000000027eb0      0x180 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x0000000000027eb0                ARSTREAM2_RtpReceiver_InvalidateNaluBuffer
+ .text.ARSTREAM2_RtpReceiver_Stop
+                0x0000000000028030      0x156 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x0000000000028030                ARSTREAM2_RtpReceiver_Stop
+ *fill*         0x0000000000028186        0xa 
+ .text.ARSTREAM2_RtpReceiver_Delete
+                0x0000000000028190      0x479 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x0000000000028190                ARSTREAM2_RtpReceiver_Delete
+ *fill*         0x0000000000028609        0x7 
+ .text.ARSTREAM2_RtpReceiver_RunStreamThread
+                0x0000000000028610     0x2165 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x0000000000028610                ARSTREAM2_RtpReceiver_RunStreamThread
+ *fill*         0x000000000002a775        0xb 
+ .text.ARSTREAM2_RtpReceiver_RunControlThread
+                0x000000000002a780      0xdce /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x000000000002a780                ARSTREAM2_RtpReceiver_RunControlThread
+ *fill*         0x000000000002b54e        0x2 
+ .text.ARSTREAM2_RtpReceiver_GetNaluCallbackUserPtr
+                0x000000000002b550       0x13 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x000000000002b550                ARSTREAM2_RtpReceiver_GetNaluCallbackUserPtr
+ *fill*         0x000000000002b563        0xd 
+ .text.ARSTREAM2_RtpReceiver_GetMonitoring
+                0x000000000002b570      0x499 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x000000000002b570                ARSTREAM2_RtpReceiver_GetMonitoring
+ *fill*         0x000000000002ba09        0x7 
+ .text.ARSTREAM2_RtpReceiver_RtpResender_New
+                0x000000000002ba10      0x1d8 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x000000000002ba10                ARSTREAM2_RtpReceiver_RtpResender_New
+ *fill*         0x000000000002bbe8        0x8 
+ .text.ARSTREAM2_RtpReceiver_RtpResender_Stop
+                0x000000000002bbf0       0x42 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x000000000002bbf0                ARSTREAM2_RtpReceiver_RtpResender_Stop
+ *fill*         0x000000000002bc32        0xe 
+ .text.ARSTREAM2_RtpReceiver_RtpResender_Delete
+                0x000000000002bc40      0x375 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x000000000002bc40                ARSTREAM2_RtpReceiver_RtpResender_Delete
+ *fill*         0x000000000002bfb5        0xb 
+ .text.ARSTREAM2_RtpReceiver_RtpResender_RunStreamThread
+                0x000000000002bfc0       0x13 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x000000000002bfc0                ARSTREAM2_RtpReceiver_RtpResender_RunStreamThread
+ *fill*         0x000000000002bfd3        0xd 
+ .text.ARSTREAM2_RtpReceiver_RtpResender_RunControlThread
+                0x000000000002bfe0       0x13 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                0x000000000002bfe0                ARSTREAM2_RtpReceiver_RtpResender_RunControlThread
+ *fill*         0x000000000002bff3        0xd 
+ .text.ARSTREAM2_RtpSender_UpdateMonitoring
+                0x000000000002c000      0x17f /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ *fill*         0x000000000002c17f        0x1 
+ .text.ARSTREAM2_RtpSender_DequeueNalu
+                0x000000000002c180      0x13f /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ *fill*         0x000000000002c2bf        0x1 
+ .text.ARSTREAM2_RtpSender_FlushNaluFifo
+                0x000000000002c2c0       0xc4 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ *fill*         0x000000000002c384        0xc 
+ .text.ARSTREAM2_RtpSender_SendData
+                0x000000000002c390      0xcd1 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ *fill*         0x000000000002d061        0xf 
+ .text.ARSTREAM2_RtpSender_New
+                0x000000000002d070      0x770 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002d070                ARSTREAM2_RtpSender_New
+ .text.ARSTREAM2_RtpSender_Stop
+                0x000000000002d7e0       0x47 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002d7e0                ARSTREAM2_RtpSender_Stop
+ *fill*         0x000000000002d827        0x9 
+ .text.ARSTREAM2_RtpSender_Delete
+                0x000000000002d830      0x1ff /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002d830                ARSTREAM2_RtpSender_Delete
+ *fill*         0x000000000002da2f        0x1 
+ .text.ARSTREAM2_RtpSender_SendNewNalu
+                0x000000000002da30      0x219 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002da30                ARSTREAM2_RtpSender_SendNewNalu
+ *fill*         0x000000000002dc49        0x7 
+ .text.ARSTREAM2_RtpSender_SendNNewNalu
+                0x000000000002dc50      0x292 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002dc50                ARSTREAM2_RtpSender_SendNNewNalu
+ *fill*         0x000000000002dee2        0xe 
+ .text.ARSTREAM2_RtpSender_FlushNaluQueue
+                0x000000000002def0       0x1e /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002def0                ARSTREAM2_RtpSender_FlushNaluQueue
+ *fill*         0x000000000002df0e        0x2 
+ .text.ARSTREAM2_RtpSender_RunStreamThread
+                0x000000000002df10     0x1f4f /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002df10                ARSTREAM2_RtpSender_RunStreamThread
+ *fill*         0x000000000002fe5f        0x1 
+ .text.ARSTREAM2_RtpSender_RunControlThread
+                0x000000000002fe60      0xccb /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x000000000002fe60                ARSTREAM2_RtpSender_RunControlThread
+ *fill*         0x0000000000030b2b        0x5 
+ .text.ARSTREAM2_RtpSender_GetAuCallbackUserPtr
+                0x0000000000030b30       0x13 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x0000000000030b30                ARSTREAM2_RtpSender_GetAuCallbackUserPtr
+ *fill*         0x0000000000030b43        0xd 
+ .text.ARSTREAM2_RtpSender_GetNaluCallbackUserPtr
+                0x0000000000030b50       0x13 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x0000000000030b50                ARSTREAM2_RtpSender_GetNaluCallbackUserPtr
+ *fill*         0x0000000000030b63        0xd 
+ .text.ARSTREAM2_RtpSender_GetMonitoring
+                0x0000000000030b70      0x5c4 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                0x0000000000030b70                ARSTREAM2_RtpSender_GetMonitoring
+ *fill*         0x0000000000031134        0xc 
+ .text.ARSTREAM2_StreamReceiver_Init
+                0x0000000000031140      0x4cc /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x0000000000031140                ARSTREAM2_StreamReceiver_Init
+ *fill*         0x000000000003160c        0x4 
+ .text.ARSTREAM2_StreamReceiver_Free
+                0x0000000000031610      0x213 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x0000000000031610                ARSTREAM2_StreamReceiver_Free
+ *fill*         0x0000000000031823        0xd 
+ .text.ARSTREAM2_StreamReceiver_RunFilterThread
+                0x0000000000031830       0xcc /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x0000000000031830                ARSTREAM2_StreamReceiver_RunFilterThread
+ *fill*         0x00000000000318fc        0x4 
+ .text.ARSTREAM2_StreamReceiver_RunStreamThread
+                0x0000000000031900       0xcd /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x0000000000031900                ARSTREAM2_StreamReceiver_RunStreamThread
+ *fill*         0x00000000000319cd        0x3 
+ .text.ARSTREAM2_StreamReceiver_RunControlThread
+                0x00000000000319d0       0xcd /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x00000000000319d0                ARSTREAM2_StreamReceiver_RunControlThread
+ *fill*         0x0000000000031a9d        0x3 
+ .text.ARSTREAM2_StreamReceiver_StartFilter
+                0x0000000000031aa0      0x176 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x0000000000031aa0                ARSTREAM2_StreamReceiver_StartFilter
+ *fill*         0x0000000000031c16        0xa 
+ .text.ARSTREAM2_StreamReceiver_PauseFilter
+                0x0000000000031c20      0x17d /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x0000000000031c20                ARSTREAM2_StreamReceiver_PauseFilter
+ *fill*         0x0000000000031d9d        0x3 
+ .text.ARSTREAM2_StreamReceiver_Stop
+                0x0000000000031da0      0x176 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x0000000000031da0                ARSTREAM2_StreamReceiver_Stop
+ *fill*         0x0000000000031f16        0xa 
+ .text.ARSTREAM2_StreamReceiver_GetSpsPps
+                0x0000000000031f20       0xcf /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x0000000000031f20                ARSTREAM2_StreamReceiver_GetSpsPps
+ *fill*         0x0000000000031fef        0x1 
+ .text.ARSTREAM2_StreamReceiver_InitResender
+                0x0000000000031ff0      0x2e1 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x0000000000031ff0                ARSTREAM2_StreamReceiver_InitResender
+ *fill*         0x00000000000322d1        0xf 
+ .text.ARSTREAM2_StreamReceiver_FreeResender
+                0x00000000000322e0       0xd2 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x00000000000322e0                ARSTREAM2_StreamReceiver_FreeResender
+ *fill*         0x00000000000323b2        0xe 
+ .text.ARSTREAM2_StreamReceiver_RunResenderStreamThread
+                0x00000000000323c0        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x00000000000323c0                ARSTREAM2_StreamReceiver_RunResenderStreamThread
+ *fill*         0x00000000000323c5        0xb 
+ .text.ARSTREAM2_StreamReceiver_RunResenderControlThread
+                0x00000000000323d0        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x00000000000323d0                ARSTREAM2_StreamReceiver_RunResenderControlThread
+ *fill*         0x00000000000323d5        0xb 
+ .text.ARSTREAM2_StreamReceiver_StopResender
+                0x00000000000323e0       0x10 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                0x00000000000323e0                ARSTREAM2_StreamReceiver_StopResender
+ *(.gnu.warning)
+
+.fini           0x00000000000323f0        0x9
+ *(SORT(.fini))
+ .fini          0x00000000000323f0        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x00000000000323f0                _fini
+ .fini          0x00000000000323f4        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000323f9                PROVIDE (__etext, .)
+                0x00000000000323f9                PROVIDE (_etext, .)
+                0x00000000000323f9                PROVIDE (etext, .)
+
+.rodata         0x0000000000032400     0x710e
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000032400       0xc1 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ *fill*         0x00000000000324c1        0x7 
+ .rodata.str1.8
+                0x00000000000324c8       0x2a /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ *fill*         0x00000000000324f2        0x2 
+ .rodata        0x00000000000324f4       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .rodata.str1.1
+                0x0000000000032520       0x66 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                                         0x6d (size before relaxing)
+ *fill*         0x0000000000032586        0x2 
+ .rodata.str1.8
+                0x0000000000032588     0x108f /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ *fill*         0x0000000000033617        0x9 
+ .rodata        0x0000000000033620      0x2ad /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .rodata.str1.1
+                0x00000000000338cd      0x154 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                                        0x177 (size before relaxing)
+ *fill*         0x0000000000033a21        0x7 
+ .rodata.str1.8
+                0x0000000000033a28     0x330b /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                                       0x339b (size before relaxing)
+ *fill*         0x0000000000036d33        0xd 
+ .rodata        0x0000000000036d40      0x620 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .rodata.cst8   0x0000000000037360        0x8 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .rodata.cst8   0x0000000000000000        0x8 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .rodata.str1.1
+                0x0000000000037368       0x74 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                                         0x7f (size before relaxing)
+ *fill*         0x00000000000373dc        0x4 
+ .rodata.str1.8
+                0x00000000000373e0      0xeec /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ *fill*         0x00000000000382cc       0x14 
+ .rodata        0x00000000000382e0      0x2aa /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .rodata.str1.1
+                0x000000000003858a       0x3c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                                         0x7b (size before relaxing)
+ *fill*         0x00000000000385c6        0x2 
+ .rodata.str1.8
+                0x00000000000385c8      0x8f9 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                                        0xd61 (size before relaxing)
+ *fill*         0x0000000000038ec1       0x1f 
+ .rodata        0x0000000000038ee0      0x188 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .rodata.cst8   0x0000000000039068        0x8 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .rodata.str1.1
+                0x0000000000039070       0x19 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                                         0x22 (size before relaxing)
+ *fill*         0x0000000000039089        0x7 
+ .rodata.str1.8
+                0x0000000000039090      0x228 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                                        0x2de (size before relaxing)
+ *fill*         0x00000000000392b8        0x8 
+ .rodata        0x00000000000392c0      0x24e /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000039510      0x31c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000039510      0x31c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+
+.eh_frame       0x0000000000039830     0x17bc
+ *(.eh_frame)
+ .eh_frame      0x0000000000039830       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000039870       0x30 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .eh_frame      0x00000000000398a0      0x2a8 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                                        0x2b0 (size before relaxing)
+ .eh_frame      0x0000000000039b48      0x770 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                                        0x740 (size before relaxing)
+ .eh_frame      0x000000000003a2b8       0x48 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000003a300      0x268 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                                        0x2a0 (size before relaxing)
+ .eh_frame      0x000000000003a568      0x440 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .eh_frame      0x000000000003a9a8      0x3a0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                                        0x390 (size before relaxing)
+ .eh_frame      0x000000000003ad48      0x2a0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                                        0x288 (size before relaxing)
+ .eh_frame      0x000000000003afe8        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000003afec                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x000000000023bb3c                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000023bb40        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000023bb40        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.fini_array     0x000000000023bb48        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000023bb48        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x000000000023bb50        0x8
+ *(.jcr)
+ .jcr           0x000000000023bb50        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .jcr           0x000000000023bb50        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data.rel.ro    0x000000000023bb60      0x260
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x000000000023bb60      0x260 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x000000000023bdc0      0x200
+ *(.dynamic)
+ .dynamic       0x000000000023bdc0      0x200 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000023bdc0                _DYNAMIC
+
+.got            0x000000000023bfc0       0x30
+ *(.got)
+ .got           0x000000000023bfc0       0x30 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000023cfe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000023c000      0x308
+ *(.got.plt)
+ .got.plt       0x000000000023c000      0x308 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000023c000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000023c308        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel      0x000000000023c308        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                0x000000000023c308                __dso_handle
+
+.tm_clone_table
+                0x000000000023c310        0x0
+ .tm_clone_table
+                0x000000000023c310        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .tm_clone_table
+                0x000000000023c310        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000023c310                _edata = .
+                0x000000000023c310                PROVIDE (edata, .)
+                0x000000000023c310                . = .
+                0x000000000023c310                __bss_start = .
+
+.bss            0x000000000023c310        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000023c310        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *(COMMON)
+                0x000000000023c318                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000023c311        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000023c318                . = ALIGN (0x8)
+                0x000000000023c318                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000063c318        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000063c318                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000063c318                . = ALIGN (0x8)
+                0x000000000063c318                _end = .
+                0x000000000063c318                PROVIDE (end, .)
+                0x000000000063c318                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                                         0x2c (size before relaxing)
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x730
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .debug_aranges
+                0x0000000000000030       0xc0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .debug_aranges
+                0x00000000000000f0      0x1e0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .debug_aranges
+                0x00000000000002d0       0x50 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .debug_aranges
+                0x0000000000000320       0xd0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .debug_aranges
+                0x00000000000003f0      0x130 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .debug_aranges
+                0x0000000000000520      0x110 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .debug_aranges
+                0x0000000000000630      0x100 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x3a86b
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0xc3 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .debug_info    0x00000000000000c3     0x7d48 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .debug_info    0x0000000000007e0b    0x1af75 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .debug_info    0x0000000000022d80      0x89d /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .debug_info    0x000000000002361d     0x59a8 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .debug_info    0x0000000000028fc5     0x7fac /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .debug_info    0x0000000000030f71     0x703e /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .debug_info    0x0000000000037faf     0x28bc /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.debug_abbrev   0x0000000000000000     0x19e5
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x7d /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .debug_abbrev  0x000000000000007d      0x414 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .debug_abbrev  0x0000000000000491      0x3f2 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .debug_abbrev  0x0000000000000883      0x1cf /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .debug_abbrev  0x0000000000000a52      0x366 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .debug_abbrev  0x0000000000000db8      0x4de /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .debug_abbrev  0x0000000000001296      0x45a /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .debug_abbrev  0x00000000000016f0      0x2f5 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.debug_line     0x0000000000000000     0x946a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0xbf /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .debug_line    0x00000000000000bf      0xd59 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .debug_line    0x0000000000000e18     0x3a59 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .debug_line    0x0000000000004871      0x213 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .debug_line    0x0000000000004a84     0x24e9 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .debug_line    0x0000000000006f6d     0x104e /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .debug_line    0x0000000000007fbb     0x103f /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .debug_line    0x0000000000008ffa      0x470 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x4bde
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x23a /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+                                        0x245 (size before relaxing)
+ .debug_str     0x000000000000023a     0x1de9 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+                                       0x20af (size before relaxing)
+ .debug_str     0x0000000000002023      0x865 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+                                       0x175a (size before relaxing)
+ .debug_str     0x0000000000002888       0xeb /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+                                        0x5f2 (size before relaxing)
+ .debug_str     0x0000000000002973      0x4aa /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+                                       0x1207 (size before relaxing)
+ .debug_str     0x0000000000002e1d     0x1380 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+                                       0x1d29 (size before relaxing)
+ .debug_str     0x000000000000419d      0x6cb /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+                                       0x17fa (size before relaxing)
+ .debug_str     0x0000000000004868      0x376 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+                                       0x113a (size before relaxing)
+
+.debug_loc      0x0000000000000000    0x61437
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x39 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .debug_loc     0x0000000000000039     0x6980 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .debug_loc     0x00000000000069b9    0x20172 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .debug_loc     0x0000000000026b2b      0xcf2 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .debug_loc     0x000000000002781d    0x2645e /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .debug_loc     0x000000000004dc7b     0x937a /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .debug_loc     0x0000000000056ff5     0x8e71 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .debug_loc     0x000000000005fe66     0x15d1 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0xbbc0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x20 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/gen/Sources/arstream2_error.c.o
+ .debug_ranges  0x0000000000000020     0x11a0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_filter.c.o
+ .debug_ranges  0x00000000000011c0     0x3e30 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_parser.c.o
+ .debug_ranges  0x0000000000004ff0      0x1f0 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_sei.c.o
+ .debug_ranges  0x00000000000051e0     0x4150 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_h264_writer.c.o
+ .debug_ranges  0x0000000000009330     0x1420 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_receiver.c.o
+ .debug_ranges  0x000000000000a750     0x1320 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_rtp_sender.c.o
+ .debug_ranges  0x000000000000ba70      0x150 /home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/obj/src/arstream2_stream_receiver.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/heratom/Firefly-project/out/arsdk-native/build/libARStream2/libarstream2.so elf64-x86-64)

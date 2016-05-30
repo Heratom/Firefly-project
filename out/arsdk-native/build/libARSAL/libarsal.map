@@ -1,0 +1,868 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libpthread.so.0               /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o (pthread_cond_init@@GLIBC_2.3.2)
+libc.so.6                     /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o (socket@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x1e8
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x1e8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000003d8      0xd08
+ *(.dynsym)
+ .dynsym        0x00000000000003d8      0xd08 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x00000000000010e0      0x8bb
+ *(.dynstr)
+ .dynstr        0x00000000000010e0      0x8bb /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x000000000000199c      0x116
+ *(.gnu.version)
+ .gnu.version   0x000000000000199c      0x116 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000001ab8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000001ab8       0x90
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001ab8       0x90 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001b48      0x1b0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel
+                0x0000000000001b48       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro.local
+                0x0000000000001b60       0x90 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001bf0       0xd8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000001cc8       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000001ce0       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000001cf8      0x6c0
+ *(.rela.plt)
+ .rela.plt      0x0000000000001cf8      0x6c0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x00000000000023b8       0x1a
+ *(SORT(.init))
+ .init          0x00000000000023b8       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x00000000000023b8                _init
+ .init          0x00000000000023cd        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x00000000000023e0      0x490
+ *(.plt)
+ .plt           0x00000000000023e0      0x490 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.text           0x0000000000002870     0x2738
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000002870       0xe5 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x0000000000002955        0xb 
+ .text.ARSAL_Ftw
+                0x0000000000002960        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+                0x0000000000002960                ARSAL_Ftw
+ *fill*         0x0000000000002965        0xb 
+ .text.ARSAL_Nftw
+                0x0000000000002970        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+                0x0000000000002970                ARSAL_Nftw
+ *fill*         0x0000000000002975        0xb 
+ .text.ARSAL_MD5_Compute
+                0x0000000000002980      0x171 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+                0x0000000000002980                ARSAL_MD5_Compute
+ *fill*         0x0000000000002af1        0xf 
+ .text.ARSAL_MD5_Manager_Init
+                0x0000000000002b00       0xd8 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+                0x0000000000002b00                ARSAL_MD5_Manager_Init
+ *fill*         0x0000000000002bd8        0x8 
+ .text.ARSAL_MD5_Manager_Close
+                0x0000000000002be0       0xb4 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+                0x0000000000002be0                ARSAL_MD5_Manager_Close
+ *fill*         0x0000000000002c94        0xc 
+ .text.ARSAL_MD5_GetMd5AsTxt
+                0x0000000000002ca0       0x79 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+                0x0000000000002ca0                ARSAL_MD5_GetMd5AsTxt
+ *fill*         0x0000000000002d19        0x7 
+ .text.ARSAL_MD5_Check
+                0x0000000000002d20      0x13c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+                0x0000000000002d20                ARSAL_MD5_Check
+ *fill*         0x0000000000002e5c        0x4 
+ .text.ARSAL_MD5_Manager_New
+                0x0000000000002e60       0xd4 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+                0x0000000000002e60                ARSAL_MD5_Manager_New
+ *fill*         0x0000000000002f34        0xc 
+ .text.ARSAL_MD5_Manager_Delete
+                0x0000000000002f40       0xce /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+                0x0000000000002f40                ARSAL_MD5_Manager_Delete
+ *fill*         0x000000000000300e        0x2 
+ .text.ARSAL_MD5_Manager_Check
+                0x0000000000003010       0x1e /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+                0x0000000000003010                ARSAL_MD5_Manager_Check
+ *fill*         0x000000000000302e        0x2 
+ .text.ARSAL_MD5_Manager_Compute
+                0x0000000000003030       0x1e /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+                0x0000000000003030                ARSAL_MD5_Manager_Compute
+ *fill*         0x000000000000304e        0x2 
+ .text.ARSAL_Mutex_Init
+                0x0000000000003050       0x1c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                0x0000000000003050                ARSAL_Mutex_Init
+ *fill*         0x000000000000306c        0x4 
+ .text.ARSAL_Mutex_Destroy
+                0x0000000000003070       0x24 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                0x0000000000003070                ARSAL_Mutex_Destroy
+ *fill*         0x0000000000003094        0xc 
+ .text.ARSAL_Mutex_Lock
+                0x00000000000030a0       0xf6 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                0x00000000000030a0                ARSAL_Mutex_Lock
+ *fill*         0x0000000000003196        0xa 
+ .text.ARSAL_Mutex_Trylock
+                0x00000000000031a0       0xf9 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                0x00000000000031a0                ARSAL_Mutex_Trylock
+ *fill*         0x0000000000003299        0x7 
+ .text.ARSAL_Mutex_Unlock
+                0x00000000000032a0       0xf6 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                0x00000000000032a0                ARSAL_Mutex_Unlock
+ *fill*         0x0000000000003396        0xa 
+ .text.ARSAL_Cond_Init
+                0x00000000000033a0       0x1c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                0x00000000000033a0                ARSAL_Cond_Init
+ *fill*         0x00000000000033bc        0x4 
+ .text.ARSAL_Cond_Destroy
+                0x00000000000033c0       0x24 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                0x00000000000033c0                ARSAL_Cond_Destroy
+ *fill*         0x00000000000033e4        0xc 
+ .text.ARSAL_Cond_Wait
+                0x00000000000033f0       0xf9 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                0x00000000000033f0                ARSAL_Cond_Wait
+ *fill*         0x00000000000034e9        0x7 
+ .text.ARSAL_Cond_Timedwait
+                0x00000000000034f0      0x191 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                0x00000000000034f0                ARSAL_Cond_Timedwait
+ *fill*         0x0000000000003681        0xf 
+ .text.ARSAL_Cond_Signal
+                0x0000000000003690       0xf6 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                0x0000000000003690                ARSAL_Cond_Signal
+ *fill*         0x0000000000003786        0xa 
+ .text.ARSAL_Cond_Broadcast
+                0x0000000000003790       0xf6 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                0x0000000000003790                ARSAL_Cond_Broadcast
+ *fill*         0x0000000000003886        0xa 
+ .text.ARSAL_Print_SetMinimumLevel
+                0x0000000000003890       0x14 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+                0x0000000000003890                ARSAL_Print_SetMinimumLevel
+ *fill*         0x00000000000038a4        0xc 
+ .text.ARSAL_Print_GetMinimumLevel
+                0x00000000000038b0        0x7 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+                0x00000000000038b0                ARSAL_Print_GetMinimumLevel
+ *fill*         0x00000000000038b7        0x9 
+ .text.ARSAL_Print_SetCallback
+                0x00000000000038c0        0x8 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+                0x00000000000038c0                ARSAL_Print_SetCallback
+ *fill*         0x00000000000038c8        0x8 
+ .text.ARSAL_Print_GetLevelDescription
+                0x00000000000038d0       0x19 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+                0x00000000000038d0                ARSAL_Print_GetLevelDescription
+ *fill*         0x00000000000038e9        0x7 
+ .text.ARSAL_Print_PrintRaw
+                0x00000000000038f0      0x149 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+                0x00000000000038f0                ARSAL_Print_PrintRaw
+ *fill*         0x0000000000003a39        0x7 
+ .text.ARSAL_Print_DumpData
+                0x0000000000003a40      0x18e /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+                0x0000000000003a40                ARSAL_Print_DumpData
+ *fill*         0x0000000000003bce        0x2 
+ .text.ARSAL_Print_DumpRotateFiles
+                0x0000000000003bd0      0x233 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+                0x0000000000003bd0                ARSAL_Print_DumpRotateFiles
+ *fill*         0x0000000000003e03        0xd 
+ .text.ARSAL_Sem_Init
+                0x0000000000003e10       0x92 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+                0x0000000000003e10                ARSAL_Sem_Init
+ *fill*         0x0000000000003ea2        0xe 
+ .text.ARSAL_Sem_Destroy
+                0x0000000000003eb0       0x4a /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+                0x0000000000003eb0                ARSAL_Sem_Destroy
+ *fill*         0x0000000000003efa        0x6 
+ .text.ARSAL_Sem_Wait
+                0x0000000000003f00       0x35 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+                0x0000000000003f00                ARSAL_Sem_Wait
+ *fill*         0x0000000000003f35        0xb 
+ .text.ARSAL_Sem_Trywait
+                0x0000000000003f40       0x35 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+                0x0000000000003f40                ARSAL_Sem_Trywait
+ *fill*         0x0000000000003f75        0xb 
+ .text.ARSAL_Sem_Timedwait
+                0x0000000000003f80       0xa2 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+                0x0000000000003f80                ARSAL_Sem_Timedwait
+ *fill*         0x0000000000004022        0xe 
+ .text.ARSAL_Sem_Post
+                0x0000000000004030       0x35 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+                0x0000000000004030                ARSAL_Sem_Post
+ *fill*         0x0000000000004065        0xb 
+ .text.ARSAL_Sem_Getvalue
+                0x0000000000004070       0x35 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+                0x0000000000004070                ARSAL_Sem_Getvalue
+ *fill*         0x00000000000040a5        0xb 
+ .text.ARSAL_Socket_Create
+                0x00000000000040b0        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x00000000000040b0                ARSAL_Socket_Create
+ *fill*         0x00000000000040b5        0xb 
+ .text.ARSAL_Socket_Connect
+                0x00000000000040c0        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x00000000000040c0                ARSAL_Socket_Connect
+ *fill*         0x00000000000040c5        0xb 
+ .text.ARSAL_Socket_Sendto
+                0x00000000000040d0        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x00000000000040d0                ARSAL_Socket_Sendto
+ *fill*         0x00000000000040d5        0xb 
+ .text.ARSAL_Socket_Send
+                0x00000000000040e0       0x5a /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x00000000000040e0                ARSAL_Socket_Send
+ *fill*         0x000000000000413a        0x6 
+ .text.ARSAL_Socket_Recvfrom
+                0x0000000000004140        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x0000000000004140                ARSAL_Socket_Recvfrom
+ *fill*         0x0000000000004145        0xb 
+ .text.ARSAL_Socket_Recv
+                0x0000000000004150        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x0000000000004150                ARSAL_Socket_Recv
+ *fill*         0x0000000000004155        0xb 
+ .text.ARSAL_Socket_Writev
+                0x0000000000004160        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x0000000000004160                ARSAL_Socket_Writev
+ *fill*         0x0000000000004165        0xb 
+ .text.ARSAL_Socket_Readv
+                0x0000000000004170        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x0000000000004170                ARSAL_Socket_Readv
+ *fill*         0x0000000000004175        0xb 
+ .text.ARSAL_Socket_Bind
+                0x0000000000004180        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x0000000000004180                ARSAL_Socket_Bind
+ *fill*         0x0000000000004185        0xb 
+ .text.ARSAL_Socket_Listen
+                0x0000000000004190        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x0000000000004190                ARSAL_Socket_Listen
+ *fill*         0x0000000000004195        0xb 
+ .text.ARSAL_Socket_Accept
+                0x00000000000041a0        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x00000000000041a0                ARSAL_Socket_Accept
+ *fill*         0x00000000000041a5        0xb 
+ .text.ARSAL_Socket_Close
+                0x00000000000041b0        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x00000000000041b0                ARSAL_Socket_Close
+ *fill*         0x00000000000041b5        0xb 
+ .text.ARSAL_Socket_Setsockopt
+                0x00000000000041c0        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x00000000000041c0                ARSAL_Socket_Setsockopt
+ *fill*         0x00000000000041c5        0xb 
+ .text.ARSAL_Socket_Getsockopt
+                0x00000000000041d0        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                0x00000000000041d0                ARSAL_Socket_Getsockopt
+ *fill*         0x00000000000041d5        0xb 
+ .text.ARSAL_Time_GetTime
+                0x00000000000041e0       0x3f /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+                0x00000000000041e0                ARSAL_Time_GetTime
+ *fill*         0x000000000000421f        0x1 
+ .text.ARSAL_Time_GetLocalTime
+                0x0000000000004220       0x7c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+                0x0000000000004220                ARSAL_Time_GetLocalTime
+ *fill*         0x000000000000429c        0x4 
+ .text.ARSAL_Time_TimevalEquals
+                0x00000000000042a0       0x2f /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+                0x00000000000042a0                ARSAL_Time_TimevalEquals
+ *fill*         0x00000000000042cf        0x1 
+ .text.ARSAL_Time_TimespecEquals
+                0x00000000000042d0       0x2f /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+                0x00000000000042d0                ARSAL_Time_TimespecEquals
+ *fill*         0x00000000000042ff        0x1 
+ .text.ARSAL_Time_ComputeTimevalMsTimeDiff
+                0x0000000000004300       0x5e /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+                0x0000000000004300                ARSAL_Time_ComputeTimevalMsTimeDiff
+ *fill*         0x000000000000435e        0x2 
+ .text.ARSAL_Time_ComputeTimespecMsTimeDiff
+                0x0000000000004360       0x5e /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+                0x0000000000004360                ARSAL_Time_ComputeTimespecMsTimeDiff
+ *fill*         0x00000000000043be        0x2 
+ .text.ARSAL_Thread_Create
+                0x00000000000043c0       0x2f /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+                0x00000000000043c0                ARSAL_Thread_Create
+ *fill*         0x00000000000043ef        0x1 
+ .text.ARSAL_Thread_Join
+                0x00000000000043f0        0x8 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+                0x00000000000043f0                ARSAL_Thread_Join
+ *fill*         0x00000000000043f8        0x8 
+ .text.ARSAL_Thread_Destroy
+                0x0000000000004400       0x13 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+                0x0000000000004400                ARSAL_Thread_Destroy
+ *fill*         0x0000000000004413        0xd 
+ .text.body     0x0000000000004420      0x782 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+ *fill*         0x0000000000004ba2        0xe 
+ .text.MD5_Init
+                0x0000000000004bb0       0x2a /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+                0x0000000000004bb0                MD5_Init
+ *fill*         0x0000000000004bda        0x6 
+ .text.MD5_Update
+                0x0000000000004be0       0xd1 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+                0x0000000000004be0                MD5_Update
+ *fill*         0x0000000000004cb1        0xf 
+ .text.MD5_Final
+                0x0000000000004cc0      0x1ca /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+                0x0000000000004cc0                MD5_Final
+ *fill*         0x0000000000004e8a        0x6 
+ .text.ARSAL_Error_ToString
+                0x0000000000004e90      0x118 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+                0x0000000000004e90                ARSAL_Error_ToString
+ *(.gnu.warning)
+
+.fini           0x0000000000004fa8        0x9
+ *(SORT(.fini))
+ .fini          0x0000000000004fa8        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000004fa8                _fini
+ .fini          0x0000000000004fac        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000004fb1                PROVIDE (__etext, .)
+                0x0000000000004fb1                PROVIDE (_etext, .)
+                0x0000000000004fb1                PROVIDE (etext, .)
+
+.rodata         0x0000000000004fc0      0x480
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000004fc0       0x29 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ *fill*         0x0000000000004fe9        0x7 
+ .rodata        0x0000000000004ff0       0x67 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ .rodata.str1.1
+                0x0000000000000000       0x21 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ *fill*         0x0000000000005057        0x9 
+ .rodata        0x0000000000005060       0x36 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ .rodata.str1.1
+                0x0000000000005096        0xc /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                                         0x15 (size before relaxing)
+ *fill*         0x00000000000050a2        0x6 
+ .rodata.str1.8
+                0x00000000000050a8       0xa1 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ *fill*         0x0000000000005149        0x7 
+ .rodata        0x0000000000005150       0xc1 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ .rodata.str1.1
+                0x0000000000005211       0x3b /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+                                         0x44 (size before relaxing)
+ *fill*         0x000000000000524c        0x4 
+ .rodata.str1.8
+                0x0000000000005250       0x3d /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ *fill*         0x000000000000528d        0x3 
+ .rodata        0x0000000000005290       0x1c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ .rodata.str1.1
+                0x00000000000052ac      0x105 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+ *fill*         0x00000000000053b1        0x7 
+ .rodata.str1.8
+                0x00000000000053b8       0x88 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+                                         0x85 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000005440      0x20c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000005440      0x20c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+
+.eh_frame       0x0000000000005650      0xa64
+ *(.eh_frame)
+ .eh_frame      0x0000000000005650       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000005690       0x48 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000056d8      0x140 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+                                        0x150 (size before relaxing)
+ .eh_frame      0x0000000000005818       0xa0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+                                         0xa8 (size before relaxing)
+ .eh_frame      0x00000000000058b8      0x220 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                                        0x218 (size before relaxing)
+ .eh_frame      0x0000000000005ad8      0x118 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ .eh_frame      0x0000000000005bf0      0x138 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+                                        0x148 (size before relaxing)
+ .eh_frame      0x0000000000005d28      0x180 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                                        0x168 (size before relaxing)
+ .eh_frame      0x0000000000005ea8       0xc0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+ .eh_frame      0x0000000000005f68       0x60 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+                                         0x70 (size before relaxing)
+ .eh_frame      0x0000000000005fc8       0xd0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+                                         0xe0 (size before relaxing)
+ .eh_frame      0x0000000000006098       0x18 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x00000000000060b0        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x00000000000060b4                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x0000000000206d7c                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000206d80        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000206d80        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.fini_array     0x0000000000206d88        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000206d88        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0000000000206d90        0x8
+ *(.jcr)
+ .jcr           0x0000000000206d90        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .jcr           0x0000000000206d90        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data.rel.ro    0x0000000000206da0       0x30
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x0000000000206da0       0x30 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000206dd0      0x1e0
+ *(.dynamic)
+ .dynamic       0x0000000000206dd0      0x1e0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000206dd0                _DYNAMIC
+
+.got            0x0000000000206fb0       0x48
+ *(.got)
+ .got           0x0000000000206fb0       0x48 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000207fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000207000      0x258
+ *(.got.plt)
+ .got.plt       0x0000000000207000      0x258 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000207000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000207258        0xc
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel      0x0000000000207258        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                0x0000000000207258                __dso_handle
+ .data          0x0000000000207260        0x4 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+
+.tm_clone_table
+                0x0000000000207268        0x0
+ .tm_clone_table
+                0x0000000000207268        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .tm_clone_table
+                0x0000000000207268        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x0000000000207268                _edata = .
+                0x0000000000207268                PROVIDE (edata, .)
+                0x0000000000207268                . = .
+                0x0000000000207268                __bss_start = .
+
+.bss            0x0000000000207268       0x10
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000207268        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x0000000000207269        0x7 
+ .bss           0x0000000000207270        0x8 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ *(COMMON)
+                0x0000000000207278                . = ALIGN ((. != 0x0)?0x8:0x1)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000207278                . = ALIGN (0x8)
+                0x0000000000207278                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000607278        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000607278                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000607278                . = ALIGN (0x8)
+                0x0000000000607278                _end = .
+                0x0000000000607278                PROVIDE (end, .)
+                0x0000000000607278                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                                         0x2c (size before relaxing)
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x560
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x40 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+ .debug_aranges
+                0x0000000000000040       0x70 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ .debug_aranges
+                0x00000000000000b0       0x60 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ .debug_aranges
+                0x0000000000000110       0xd0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ .debug_aranges
+                0x00000000000001e0       0x90 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ .debug_aranges
+                0x0000000000000270       0x90 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+ .debug_aranges
+                0x0000000000000300      0x100 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+ .debug_aranges
+                0x0000000000000400       0x80 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+ .debug_aranges
+                0x0000000000000480       0x50 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+ .debug_aranges
+                0x00000000000004d0       0x60 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+ .debug_aranges
+                0x0000000000000530       0x30 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x65a9
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x6ab /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+ .debug_info    0x00000000000006ab      0xf93 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ .debug_info    0x000000000000163e      0x971 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ .debug_info    0x0000000000001faf     0x14fc /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ .debug_info    0x00000000000034ab      0xfa8 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ .debug_info    0x0000000000004453      0x623 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+ .debug_info    0x0000000000004a76      0xb8c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+ .debug_info    0x0000000000005602      0x452 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+ .debug_info    0x0000000000005a54      0x4e8 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+ .debug_info    0x0000000000005f3c      0x584 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+ .debug_info    0x00000000000064c0       0xe9 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+
+.debug_abbrev   0x0000000000000000     0x150b
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x15c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+ .debug_abbrev  0x000000000000015c      0x325 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ .debug_abbrev  0x0000000000000481      0x20c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ .debug_abbrev  0x000000000000068d      0x22b /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ .debug_abbrev  0x00000000000008b8      0x352 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ .debug_abbrev  0x0000000000000c0a      0x212 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+ .debug_abbrev  0x0000000000000e1c      0x1d1 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+ .debug_abbrev  0x0000000000000fed      0x139 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+ .debug_abbrev  0x0000000000001126      0x19c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+ .debug_abbrev  0x00000000000012c2      0x1d3 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+ .debug_abbrev  0x0000000000001495       0x76 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+
+.debug_line     0x0000000000000000     0x1bd8
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x145 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+ .debug_line    0x0000000000000145      0x272 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ .debug_line    0x00000000000003b7      0x1de /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ .debug_line    0x0000000000000595      0x2e5 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ .debug_line    0x000000000000087a      0x34a /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ .debug_line    0x0000000000000bc4      0x267 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+ .debug_line    0x0000000000000e2b      0x283 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+ .debug_line    0x00000000000010ae      0x1a6 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+ .debug_line    0x0000000000001254      0x176 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+ .debug_line    0x00000000000013ca      0x71b /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+ .debug_line    0x0000000000001ae5       0xf3 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x1647
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x46e /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+                                        0x4e6 (size before relaxing)
+ .debug_str     0x000000000000046e      0x4c8 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+                                        0x7e2 (size before relaxing)
+ .debug_str     0x0000000000000936       0xb2 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+                                        0x73d (size before relaxing)
+ .debug_str     0x00000000000009e8      0x34c /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+                                        0x7b9 (size before relaxing)
+ .debug_str     0x0000000000000d34      0x2ad /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+                                        0x74d (size before relaxing)
+ .debug_str     0x0000000000000fe1      0x114 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+                                        0x341 (size before relaxing)
+ .debug_str     0x00000000000010f5      0x29e /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+                                        0x426 (size before relaxing)
+ .debug_str     0x0000000000001393      0x11a /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+                                        0x2fb (size before relaxing)
+ .debug_str     0x00000000000014ad       0xd6 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+                                        0x3c6 (size before relaxing)
+ .debug_str     0x0000000000001583       0x83 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+                                        0x1f7 (size before relaxing)
+ .debug_str     0x0000000000001606       0x41 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+                                        0x297 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x4a94
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x18f /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+ .debug_loc     0x000000000000018f      0x7b9 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ .debug_loc     0x0000000000000948      0x363 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ .debug_loc     0x0000000000000cab      0x815 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ .debug_loc     0x00000000000014c0      0xc24 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ .debug_loc     0x00000000000020e4      0x5bb /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+ .debug_loc     0x000000000000269f      0xc59 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+ .debug_loc     0x00000000000032f8      0x423 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+ .debug_loc     0x000000000000371b      0x1d8 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+ .debug_loc     0x00000000000038f3     0x11a1 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x740
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x30 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Ftw.c.o
+ .debug_ranges  0x0000000000000030      0x120 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5.c.o
+ .debug_ranges  0x0000000000000150       0xb0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_MD5_Manager.c.o
+ .debug_ranges  0x0000000000000200       0xc0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Mutex.c.o
+ .debug_ranges  0x00000000000002c0       0xe0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Print.c.o
+ .debug_ranges  0x00000000000003a0       0x80 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Sem.c.o
+ .debug_ranges  0x0000000000000420       0xf0 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Socket.c.o
+ .debug_ranges  0x0000000000000510       0x70 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Time.c.o
+ .debug_ranges  0x0000000000000580       0x40 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/ARSAL_Thread.c.o
+ .debug_ranges  0x00000000000005c0      0x160 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/Sources/md5.c.o
+ .debug_ranges  0x0000000000000720       0x20 /home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/obj/gen/Sources/ARSAL_Error.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/heratom/Firefly-project/out/arsdk-native/build/libARSAL/libarsal.so elf64-x86-64)

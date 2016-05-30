@@ -1,0 +1,845 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o (ARSAL_Sem_Post)
+libcurl.so                    /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o (curl_easy_cleanup)
+libpthread.so.0               /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o (write@@GLIBC_2.2.5)
+libc.so.6                     /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o (socket@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libardiscovery.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarcommands.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libcurl.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x2b4
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x2b4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000004a8      0xdc8
+ *(.dynsym)
+ .dynsym        0x00000000000004a8      0xdc8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000001270      0xcbe
+ *(.dynstr)
+ .dynstr        0x0000000000001270      0xcbe /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000001f2e      0x126
+ *(.gnu.version)
+ .gnu.version   0x0000000000001f2e      0x126 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000002058        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000002058       0x80
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000002058       0x80 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x00000000000020d8      0x300
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel
+                0x00000000000020d8       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x00000000000020f0      0x2b8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x00000000000023a8       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x00000000000023c0       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x00000000000023d8      0x7b0
+ *(.rela.plt)
+ .rela.plt      0x00000000000023d8      0x7b0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000002b88       0x1a
+ *(SORT(.init))
+ .init          0x0000000000002b88       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000002b88                _init
+ .init          0x0000000000002b9d        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000002bb0      0x530
+ *(.plt)
+ .plt           0x0000000000002bb0      0x530 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.text           0x00000000000030e0     0x5c28
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000000030e0       0xe5 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x00000000000031c5        0xb 
+ .text.ARUTILS_FileSystem_IsExist
+                0x00000000000031d0       0x55 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+                0x00000000000031d0                ARUTILS_FileSystem_IsExist
+ *fill*         0x0000000000003225        0xb 
+ .text.ARUTILS_FileSystem_GetFileSize
+                0x0000000000003230      0x1b2 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+                0x0000000000003230                ARUTILS_FileSystem_GetFileSize
+ *fill*         0x00000000000033e2        0xe 
+ .text.ARUTILS_FileSystem_Rename
+                0x00000000000033f0      0x104 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+                0x00000000000033f0                ARUTILS_FileSystem_Rename
+ *fill*         0x00000000000034f4        0xc 
+ .text.ARUTILS_FileSystem_RemoveFile
+                0x0000000000003500       0xdc /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+                0x0000000000003500                ARUTILS_FileSystem_RemoveFile
+ *fill*         0x00000000000035dc        0x4 
+ .text.ARUTILS_FileSystem_RemoveDir
+                0x00000000000035e0      0x115 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+                0x00000000000035e0                ARUTILS_FileSystem_RemoveDir
+ *fill*         0x00000000000036f5        0xb 
+ .text.ARUTILS_FileSystem_RemoveDirCallback
+                0x0000000000003700       0x3c /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+                0x0000000000003700                ARUTILS_FileSystem_RemoveDirCallback
+ *fill*         0x000000000000373c        0x4 
+ .text.ARUTILS_FileSystem_GetFreeSpace
+                0x0000000000003740      0x140 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+                0x0000000000003740                ARUTILS_FileSystem_GetFreeSpace
+ .text.ARUTILS_Http_ProgressCallback
+                0x0000000000003880       0x84 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000003880                ARUTILS_Http_ProgressCallback
+ *fill*         0x0000000000003904        0xc 
+ .text.ARUTILS_Http_ClosesocketCallback
+                0x0000000000003910       0x18 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000003910                ARUTILS_Http_ClosesocketCallback
+ *fill*         0x0000000000003928        0x8 
+ .text.ARUTILS_Http_OpensocketCallback
+                0x0000000000003930       0x2e /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000003930                ARUTILS_Http_OpensocketCallback
+ *fill*         0x000000000000395e        0x2 
+ .text.ARUTILS_Http_Connection_Cancel
+                0x0000000000003960       0xfc /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000003960                ARUTILS_Http_Connection_Cancel
+ *fill*         0x0000000000003a5c        0x4 
+ .text.ARUTILS_Http_SetSeverCertificate
+                0x0000000000003a60       0x4f /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000003a60                ARUTILS_Http_SetSeverCertificate
+ *fill*         0x0000000000003aaf        0x1 
+ .text.ARUTILS_Http_FreeCallbackData
+                0x0000000000003ab0      0x112 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000003ab0                ARUTILS_Http_FreeCallbackData
+ *fill*         0x0000000000003bc2        0xe 
+ .text.ARUTILS_Http_Connection_Delete
+                0x0000000000003bd0       0xed /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000003bd0                ARUTILS_Http_Connection_Delete
+ *fill*         0x0000000000003cbd        0x3 
+ .text.ARUTILS_Http_Connection_New
+                0x0000000000003cc0      0x2bc /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000003cc0                ARUTILS_Http_Connection_New
+ *fill*         0x0000000000003f7c        0x4 
+ .text.ARUTILS_Http_ResetOptions
+                0x0000000000003f80      0x213 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000003f80                ARUTILS_Http_ResetOptions
+ *fill*         0x0000000000004193        0xd 
+ .text.ARUTILS_Http_IsCanceled
+                0x00000000000041a0       0x45 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x00000000000041a0                ARUTILS_Http_IsCanceled
+ *fill*         0x00000000000041e5        0xb 
+ .text.ARUTILS_Http_ReadDataCallback
+                0x00000000000041f0      0x134 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x00000000000041f0                ARUTILS_Http_ReadDataCallback
+ *fill*         0x0000000000004324        0xc 
+ .text.ARUTILS_Http_WriteDataCallback
+                0x0000000000004330      0x137 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000004330                ARUTILS_Http_WriteDataCallback
+ *fill*         0x0000000000004467        0x9 
+ .text.ARUTILS_Http_GetErrorFromCode
+                0x0000000000004470       0x27 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000004470                ARUTILS_Http_GetErrorFromCode
+ *fill*         0x0000000000004497        0x9 
+ .text.ARUTILS_Http_Get_Internal
+                0x00000000000044a0      0x5c9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x00000000000044a0                ARUTILS_Http_Get_Internal
+ *fill*         0x0000000000004a69        0x7 
+ .text.ARUTILS_Http_Get
+                0x0000000000004a70       0x1a /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000004a70                ARUTILS_Http_Get
+ *fill*         0x0000000000004a8a        0x6 
+ .text.ARUTILS_Http_Get_WithBuffer
+                0x0000000000004a90       0x1d /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000004a90                ARUTILS_Http_Get_WithBuffer
+ *fill*         0x0000000000004aad        0x3 
+ .text.ARUTILS_Http_Post_WithFiles
+                0x0000000000004ab0      0x4e5 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000004ab0                ARUTILS_Http_Post_WithFiles
+ *fill*         0x0000000000004f95        0xb 
+ .text.ARUTILS_Http_Post_WithRange
+                0x0000000000004fa0      0x6fe /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                0x0000000000004fa0                ARUTILS_Http_Post_WithRange
+ *fill*         0x000000000000569e        0x2 
+ .text.ARUTILS_Manager_New
+                0x00000000000056a0       0xd4 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x00000000000056a0                ARUTILS_Manager_New
+ *fill*         0x0000000000005774        0xc 
+ .text.ARUTILS_Manager_Delete
+                0x0000000000005780       0xce /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x0000000000005780                ARUTILS_Manager_Delete
+ *fill*         0x000000000000584e        0x2 
+ .text.ARUTILS_Manager_Ftp_Connection_Disconnect
+                0x0000000000005850       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x0000000000005850                ARUTILS_Manager_Ftp_Connection_Disconnect
+ *fill*         0x0000000000005866        0xa 
+ .text.ARUTILS_Manager_Ftp_Connection_Reconnect
+                0x0000000000005870       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x0000000000005870                ARUTILS_Manager_Ftp_Connection_Reconnect
+ *fill*         0x0000000000005886        0xa 
+ .text.ARUTILS_Manager_Ftp_Connection_Cancel
+                0x0000000000005890       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x0000000000005890                ARUTILS_Manager_Ftp_Connection_Cancel
+ *fill*         0x00000000000058a6        0xa 
+ .text.ARUTILS_Manager_Ftp_Connection_IsCanceled
+                0x00000000000058b0       0xf1 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x00000000000058b0                ARUTILS_Manager_Ftp_Connection_IsCanceled
+ *fill*         0x00000000000059a1        0xf 
+ .text.ARUTILS_Manager_Ftp_Connection_Reset
+                0x00000000000059b0       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x00000000000059b0                ARUTILS_Manager_Ftp_Connection_Reset
+ *fill*         0x00000000000059c6        0xa 
+ .text.ARUTILS_Manager_Ftp_List
+                0x00000000000059d0       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x00000000000059d0                ARUTILS_Manager_Ftp_List
+ *fill*         0x00000000000059e6        0xa 
+ .text.ARUTILS_Manager_Ftp_Size
+                0x00000000000059f0       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x00000000000059f0                ARUTILS_Manager_Ftp_Size
+ *fill*         0x0000000000005a06        0xa 
+ .text.ARUTILS_Manager_Ftp_Get_WithBuffer
+                0x0000000000005a10       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x0000000000005a10                ARUTILS_Manager_Ftp_Get_WithBuffer
+ *fill*         0x0000000000005a26        0xa 
+ .text.ARUTILS_Manager_Ftp_Get
+                0x0000000000005a30       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x0000000000005a30                ARUTILS_Manager_Ftp_Get
+ *fill*         0x0000000000005a46        0xa 
+ .text.ARUTILS_Manager_Ftp_Put
+                0x0000000000005a50       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x0000000000005a50                ARUTILS_Manager_Ftp_Put
+ *fill*         0x0000000000005a66        0xa 
+ .text.ARUTILS_Manager_Ftp_Delete
+                0x0000000000005a70       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x0000000000005a70                ARUTILS_Manager_Ftp_Delete
+ *fill*         0x0000000000005a86        0xa 
+ .text.ARUTILS_Manager_Ftp_RemoveDir
+                0x0000000000005a90       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x0000000000005a90                ARUTILS_Manager_Ftp_RemoveDir
+ *fill*         0x0000000000005aa6        0xa 
+ .text.ARUTILS_Manager_Ftp_Rename
+                0x0000000000005ab0       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                0x0000000000005ab0                ARUTILS_Manager_Ftp_Rename
+ *fill*         0x0000000000005ac6        0xa 
+ .text.ARUTILS_WifiFtp_ClosesocketCallback
+                0x0000000000005ad0       0x18 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000005ad0                ARUTILS_WifiFtp_ClosesocketCallback
+ *fill*         0x0000000000005ae8        0x8 
+ .text.ARUTILS_WifiFtp_OpensocketCallback
+                0x0000000000005af0       0x2e /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000005af0                ARUTILS_WifiFtp_OpensocketCallback
+ *fill*         0x0000000000005b1e        0x2 
+ .text.ARUTILS_WifiFtp_Connection_Disconnect
+                0x0000000000005b20       0x2f /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000005b20                ARUTILS_WifiFtp_Connection_Disconnect
+ *fill*         0x0000000000005b4f        0x1 
+ .text.ARUTILS_WifiFtpAL_Connection_Disconnect
+                0x0000000000005b50        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000005b50                ARUTILS_WifiFtpAL_Connection_Disconnect
+ *fill*         0x0000000000005b59        0x7 
+ .text.ARUTILS_WifiFtp_Connection_Reconnect
+                0x0000000000005b60       0x2b /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000005b60                ARUTILS_WifiFtp_Connection_Reconnect
+ *fill*         0x0000000000005b8b        0x5 
+ .text.ARUTILS_WifiFtpAL_Connection_Reconnect
+                0x0000000000005b90        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000005b90                ARUTILS_WifiFtpAL_Connection_Reconnect
+ *fill*         0x0000000000005b99        0x7 
+ .text.ARUTILS_WifiFtp_Connection_Cancel
+                0x0000000000005ba0       0xfc /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000005ba0                ARUTILS_WifiFtp_Connection_Cancel
+ *fill*         0x0000000000005c9c        0x4 
+ .text.ARUTILS_WifiFtpAL_Connection_Cancel
+                0x0000000000005ca0        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000005ca0                ARUTILS_WifiFtpAL_Connection_Cancel
+ *fill*         0x0000000000005ca9        0x7 
+ .text.ARUTILS_WifiFtp_Connection_Reset
+                0x0000000000005cb0       0xe3 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000005cb0                ARUTILS_WifiFtp_Connection_Reset
+ *fill*         0x0000000000005d93        0xd 
+ .text.ARUTILS_WifiFtpAL_Connection_Reset
+                0x0000000000005da0        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000005da0                ARUTILS_WifiFtpAL_Connection_Reset
+ *fill*         0x0000000000005da9        0x7 
+ .text.ARUTILS_Ftp_List_GetNextItem
+                0x0000000000005db0      0x20c /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000005db0                ARUTILS_Ftp_List_GetNextItem
+ *fill*         0x0000000000005fbc        0x4 
+ .text.ARUTILS_Ftp_List_GetItemSize
+                0x0000000000005fc0       0xd2 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000005fc0                ARUTILS_Ftp_List_GetItemSize
+ *fill*         0x0000000000006092        0xe 
+ .text.ARUTILS_WifiFtp_FreeCallbackData
+                0x00000000000060a0       0xf2 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000060a0                ARUTILS_WifiFtp_FreeCallbackData
+ *fill*         0x0000000000006192        0xe 
+ .text.ARUTILS_WifiFtp_Connection_Delete
+                0x00000000000061a0       0xed /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000061a0                ARUTILS_WifiFtp_Connection_Delete
+ *fill*         0x000000000000628d        0x3 
+ .text.ARUTILS_WifiFtp_Connection_New
+                0x0000000000006290      0x296 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000006290                ARUTILS_WifiFtp_Connection_New
+ *fill*         0x0000000000006526        0xa 
+ .text.ARUTILS_WifiFtp_ResetOptions
+                0x0000000000006530      0x1a6 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000006530                ARUTILS_WifiFtp_ResetOptions
+ *fill*         0x00000000000066d6        0xa 
+ .text.ARUTILS_WifiFtp_IsCanceled
+                0x00000000000066e0       0x45 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000066e0                ARUTILS_WifiFtp_IsCanceled
+ *fill*         0x0000000000006725        0xb 
+ .text.ARUTILS_WifiFtp_ReadDataCallback
+                0x0000000000006730       0x8c /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000006730                ARUTILS_WifiFtp_ReadDataCallback
+ *fill*         0x00000000000067bc        0x4 
+ .text.ARUTILS_WifiFtp_WriteDataCallback
+                0x00000000000067c0      0x13d /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000067c0                ARUTILS_WifiFtp_WriteDataCallback
+ *fill*         0x00000000000068fd        0x3 
+ .text.ARUTILS_WifiFtp_ProgressCallback
+                0x0000000000006900       0xd4 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000006900                ARUTILS_WifiFtp_ProgressCallback
+ *fill*         0x00000000000069d4        0xc 
+ .text.ARUTILS_WifiFtpAL_Connection_IsCanceled
+                0x00000000000069e0        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000069e0                ARUTILS_WifiFtpAL_Connection_IsCanceled
+ *fill*         0x00000000000069e9        0x7 
+ .text.ARUTILS_WifiFtp_GetErrorFromCode
+                0x00000000000069f0       0x77 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000069f0                ARUTILS_WifiFtp_GetErrorFromCode
+ *fill*         0x0000000000006a67        0x9 
+ .text.ARUTILS_WifiFtp_Rename
+                0x0000000000006a70      0x38f /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000006a70                ARUTILS_WifiFtp_Rename
+ *fill*         0x0000000000006dff        0x1 
+ .text.ARUTILS_WifiFtpAL_Rename
+                0x0000000000006e00        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000006e00                ARUTILS_WifiFtpAL_Rename
+ *fill*         0x0000000000006e09        0x7 
+ .text.ARUTILS_WifiFtp_Size
+                0x0000000000006e10      0x4af /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000006e10                ARUTILS_WifiFtp_Size
+ *fill*         0x00000000000072bf        0x1 
+ .text.ARUTILS_WifiFtpAL_Size
+                0x00000000000072c0        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000072c0                ARUTILS_WifiFtpAL_Size
+ *fill*         0x00000000000072c9        0x7 
+ .text.ARUTILS_WifiFtp_Command
+                0x00000000000072d0      0x2c5 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000072d0                ARUTILS_WifiFtp_Command
+ *fill*         0x0000000000007595        0xb 
+ .text.ARUTILS_WifiFtp_Delete
+                0x00000000000075a0      0x110 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000075a0                ARUTILS_WifiFtp_Delete
+ .text.ARUTILS_WifiFtpAL_Delete
+                0x00000000000076b0        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000076b0                ARUTILS_WifiFtpAL_Delete
+ *fill*         0x00000000000076b9        0x7 
+ .text.ARUTILS_WifiFtp_RemoveDir
+                0x00000000000076c0      0x110 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000076c0                ARUTILS_WifiFtp_RemoveDir
+ .text.ARUTILS_WifiFtpAL_RemoveDir
+                0x00000000000077d0        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000077d0                ARUTILS_WifiFtpAL_RemoveDir
+ *fill*         0x00000000000077d9        0x7 
+ .text.ARUTILS_WifiFtp_Cd
+                0x00000000000077e0      0x110 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000077e0                ARUTILS_WifiFtp_Cd
+ .text.ARUTILS_WifiFtp_List
+                0x00000000000078f0      0x492 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000078f0                ARUTILS_WifiFtp_List
+ *fill*         0x0000000000007d82        0xe 
+ .text.ARUTILS_WifiFtpAL_List
+                0x0000000000007d90        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000007d90                ARUTILS_WifiFtpAL_List
+ *fill*         0x0000000000007d99        0x7 
+ .text.ARUTILS_WifiFtp_GetInternal
+                0x0000000000007da0      0x5e7 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000007da0                ARUTILS_WifiFtp_GetInternal
+ *fill*         0x0000000000008387        0x9 
+ .text.ARUTILS_WifiFtp_Get
+                0x0000000000008390       0x1f /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000008390                ARUTILS_WifiFtp_Get
+ *fill*         0x00000000000083af        0x1 
+ .text.ARUTILS_WifiFtpAL_Get
+                0x00000000000083b0        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000083b0                ARUTILS_WifiFtpAL_Get
+ *fill*         0x00000000000083b9        0x7 
+ .text.ARUTILS_WifiFtp_Get_WithBuffer
+                0x00000000000083c0       0x25 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000083c0                ARUTILS_WifiFtp_Get_WithBuffer
+ *fill*         0x00000000000083e5        0xb 
+ .text.ARUTILS_WifiFtpAL_Get_WithBuffer
+                0x00000000000083f0        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x00000000000083f0                ARUTILS_WifiFtpAL_Get_WithBuffer
+ *fill*         0x00000000000083f9        0x7 
+ .text.ARUTILS_WifiFtp_Put
+                0x0000000000008400      0x542 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000008400                ARUTILS_WifiFtp_Put
+ *fill*         0x0000000000008942        0xe 
+ .text.ARUTILS_WifiFtpAL_Put
+                0x0000000000008950        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000008950                ARUTILS_WifiFtpAL_Put
+ *fill*         0x0000000000008959        0x7 
+ .text.ARUTILS_Manager_InitWifiFtp
+                0x0000000000008960      0x13a /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000008960                ARUTILS_Manager_InitWifiFtp
+ *fill*         0x0000000000008a9a        0x6 
+ .text.ARUTILS_Manager_CloseWifiFtp
+                0x0000000000008aa0       0x22 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                0x0000000000008aa0                ARUTILS_Manager_CloseWifiFtp
+ *fill*         0x0000000000008ac2        0xe 
+ .text.ARUTILS_Error_ToString
+                0x0000000000008ad0      0x238 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+                0x0000000000008ad0                ARUTILS_Error_ToString
+ *(.gnu.warning)
+
+.fini           0x0000000000008d08        0x9
+ *(SORT(.fini))
+ .fini          0x0000000000008d08        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000008d08                _fini
+ .fini          0x0000000000008d0c        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000008d11                PROVIDE (__etext, .)
+                0x0000000000008d11                PROVIDE (_etext, .)
+                0x0000000000008d11                PROVIDE (etext, .)
+
+.rodata         0x0000000000008d20      0x820
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000008d20       0x49 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ *fill*         0x0000000000008d69       0x17 
+ .rodata        0x0000000000008d80       0x9f /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ .rodata.str1.1
+                0x0000000000008e1f       0xc4 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                                         0xec (size before relaxing)
+ *fill*         0x0000000000008ee3        0xd 
+ .rodata        0x0000000000008ef0       0xbc /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ *fill*         0x0000000000008fac        0x4 
+ .rodata.cst8   0x0000000000008fb0       0x10 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ .rodata.str1.1
+                0x0000000000008fc0       0x22 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                                         0x3f (size before relaxing)
+ *fill*         0x0000000000008fe2       0x1e 
+ .rodata        0x0000000000009000       0x64 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+ .rodata.str1.1
+                0x0000000000009064       0x5f /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                                         0xd1 (size before relaxing)
+ *fill*         0x00000000000090c3        0x5 
+ .rodata.str1.8
+                0x00000000000090c8       0x1f /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+ *fill*         0x00000000000090e7       0x19 
+ .rodata        0x0000000000009100      0x1ef /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+ *fill*         0x00000000000092ef        0x1 
+ .rodata.cst8   0x00000000000092f0        0x8 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                                         0x18 (size before relaxing)
+ .rodata.str1.1
+                0x00000000000092f8      0x209 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+ *fill*         0x0000000000009501        0x7 
+ .rodata.str1.8
+                0x0000000000009508       0x38 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+                                         0x33 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000009540      0x2ac
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000009540      0x2ac /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+
+.eh_frame       0x00000000000097f0      0xf4c
+ *(.eh_frame)
+ .eh_frame      0x00000000000097f0       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000009830      0x198 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+                                        0x188 (size before relaxing)
+ .eh_frame      0x00000000000099c8      0x3b0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                                        0x3a0 (size before relaxing)
+ .eh_frame      0x0000000000009d78      0x1c8 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                                        0x1a8 (size before relaxing)
+ .eh_frame      0x0000000000009f40      0x7e0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                                        0x798 (size before relaxing)
+ .eh_frame      0x000000000000a720       0x18 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x000000000000a738        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000000a73c                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x000000000020acfc                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000020ad00        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000020ad00        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.fini_array     0x000000000020ad08        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000020ad08        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x000000000020ad10        0x8
+ *(.jcr)
+ .jcr           0x000000000020ad10        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .jcr           0x000000000020ad10        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x000000000020ad18      0x200
+ *(.dynamic)
+ .dynamic       0x000000000020ad18      0x200 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020ad18                _DYNAMIC
+
+.got            0x000000000020af18       0xe8
+ *(.got)
+ .got           0x000000000020af18       0xe8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000020bfe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000020b000      0x2a8
+ *(.got.plt)
+ .got.plt       0x000000000020b000      0x2a8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020b000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000020b2a8        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel      0x000000000020b2a8        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                0x000000000020b2a8                __dso_handle
+
+.tm_clone_table
+                0x000000000020b2b0        0x0
+ .tm_clone_table
+                0x000000000020b2b0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .tm_clone_table
+                0x000000000020b2b0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000020b2b0                _edata = .
+                0x000000000020b2b0                PROVIDE (edata, .)
+                0x000000000020b2b0                . = .
+                0x000000000020b2b0                __bss_start = .
+
+.bss            0x000000000020b2b0        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000020b2b0        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *(COMMON)
+                0x000000000020b2b8                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000020b2b1        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000020b2b8                . = ALIGN (0x8)
+                0x000000000020b2b8                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000060b2b8        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000060b2b8                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000060b2b8                . = ALIGN (0x8)
+                0x000000000060b2b8                _end = .
+                0x000000000060b2b8                PROVIDE (end, .)
+                0x000000000060b2b8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                                         0x2c (size before relaxing)
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x5e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x90 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ .debug_aranges
+                0x0000000000000090      0x140 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ .debug_aranges
+                0x00000000000001d0      0x110 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+ .debug_aranges
+                0x00000000000002e0      0x2d0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+ .debug_aranges
+                0x00000000000005b0       0x30 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xc65b
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x135e /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ .debug_info    0x000000000000135e     0x3fa0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ .debug_info    0x00000000000052fe     0x123d /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+ .debug_info    0x000000000000653b     0x5fea /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+ .debug_info    0x000000000000c525      0x136 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+
+.debug_abbrev   0x0000000000000000      0xe9d
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x265 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ .debug_abbrev  0x0000000000000265      0x4ac /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ .debug_abbrev  0x0000000000000711      0x258 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+ .debug_abbrev  0x0000000000000969      0x4be /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+ .debug_abbrev  0x0000000000000e27       0x76 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+
+.debug_line     0x0000000000000000     0x20c7
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x33f /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ .debug_line    0x000000000000033f      0x96a /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ .debug_line    0x0000000000000ca9      0x386 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+ .debug_line    0x000000000000102f      0xf19 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+ .debug_line    0x0000000000001f48      0x17f /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x3ed4
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0xa64 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+                                        0xaea (size before relaxing)
+ .debug_str     0x0000000000000a64     0x2813 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+                                       0x3012 (size before relaxing)
+ .debug_str     0x0000000000003277      0x51d /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+                                        0xcbd (size before relaxing)
+ .debug_str     0x0000000000003794      0x6f9 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+                                       0x32fa (size before relaxing)
+ .debug_str     0x0000000000003e8d       0x47 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+                                        0x3ba (size before relaxing)
+
+.debug_loc      0x0000000000000000     0xcc43
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0xb94 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ .debug_loc     0x0000000000000b94     0x3fa5 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ .debug_loc     0x0000000000004b39      0xe82 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+ .debug_loc     0x00000000000059bb     0x7288 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x1680
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x1e0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_FileSystem.c.o
+ .debug_ranges  0x00000000000001e0      0x740 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Http.c.o
+ .debug_ranges  0x0000000000000920      0x160 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_Manager.c.o
+ .debug_ranges  0x0000000000000a80      0xbe0 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/Sources/ARUTILS_WifiFtp.c.o
+ .debug_ranges  0x0000000000001660       0x20 /home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/obj/gen/Sources/ARUTILS_Error.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/heratom/Firefly-project/out/arsdk-native/build/libARUtils/libarutils.so elf64-x86-64)

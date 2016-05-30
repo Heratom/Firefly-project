@@ -1,0 +1,845 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o (ARSAL_Sem_Wait)
+libarnetworkal.so             /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o (ARNETWORKAL_Manager_SetOnDisconnectCallback)
+libpthread.so.0               /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o (__errno_location@@GLIBC_2.2.5)
+libc.so.6                     /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o (__stack_chk_fail@@GLIBC_2.4)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarnetworkal.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x280
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x280 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x0000000000000470      0xa50
+ *(.dynsym)
+ .dynsym        0x0000000000000470      0xa50 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000ec0      0xb41
+ *(.dynstr)
+ .dynstr        0x0000000000000ec0      0xb41 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000001a02       0xdc
+ *(.gnu.version)
+ .gnu.version   0x0000000000001a02       0xdc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x0000000000001ae0        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x0000000000001ae0       0x60
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001ae0       0x60 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001b40       0xd8
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel
+                0x0000000000001b40       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001b58       0x90 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000001be8       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000001c00       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000001c18      0x7b0
+ *(.rela.plt)
+ .rela.plt      0x0000000000001c18      0x7b0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x00000000000023c8       0x1a
+ *(SORT(.init))
+ .init          0x00000000000023c8       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x00000000000023c8                _init
+ .init          0x00000000000023dd        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x00000000000023f0      0x530
+ *(.plt)
+ .plt           0x00000000000023f0      0x530 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.text           0x0000000000002920     0x4b48
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000002920       0xe5 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x0000000000002a05        0xb 
+ .text.ARNETWORK_IOBuffer_IsWaitAck
+                0x0000000000002a10        0x4 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000002a10                ARNETWORK_IOBuffer_IsWaitAck
+ *fill*         0x0000000000002a14        0xc 
+ .text.ARNETWORK_IOBuffer_Lock
+                0x0000000000002a20       0xdf /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000002a20                ARNETWORK_IOBuffer_Lock
+ *fill*         0x0000000000002aff        0x1 
+ .text.ARNETWORK_IOBuffer_Unlock
+                0x0000000000002b00       0xdf /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000002b00                ARNETWORK_IOBuffer_Unlock
+ *fill*         0x0000000000002bdf        0x1 
+ .text.ARNETWORK_IOBuffer_PopData
+                0x0000000000002be0       0x8b /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000002be0                ARNETWORK_IOBuffer_PopData
+ *fill*         0x0000000000002c6b        0x5 
+ .text.ARNETWORK_IOBuffer_PopDataWithCallBack
+                0x0000000000002c70       0x9b /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000002c70                ARNETWORK_IOBuffer_PopDataWithCallBack
+ *fill*         0x0000000000002d0b        0x5 
+ .text.ARNETWORK_IOBuffer_AckReceived
+                0x0000000000002d10       0x26 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000002d10                ARNETWORK_IOBuffer_AckReceived
+ *fill*         0x0000000000002d36        0xa 
+ .text.ARNETWORK_IOBuffer_CancelAllData
+                0x0000000000002d40       0x28 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000002d40                ARNETWORK_IOBuffer_CancelAllData
+ *fill*         0x0000000000002d68        0x8 
+ .text.ARNETWORK_IOBuffer_Delete
+                0x0000000000002d70       0x57 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000002d70                ARNETWORK_IOBuffer_Delete
+ *fill*         0x0000000000002dc7        0x9 
+ .text.ARNETWORK_IOBuffer_New
+                0x0000000000002dd0      0x220 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000002dd0                ARNETWORK_IOBuffer_New
+ .text.ARNETWORK_IOBuffer_Flush
+                0x0000000000002ff0       0x72 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000002ff0                ARNETWORK_IOBuffer_Flush
+ *fill*         0x0000000000003062        0xe 
+ .text.ARNETWORK_IOBuffer_AddData
+                0x0000000000003070       0xdf /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000003070                ARNETWORK_IOBuffer_AddData
+ *fill*         0x000000000000314f        0x1 
+ .text.ARNETWORK_IOBuffer_ShouldAcceptData
+                0x0000000000003150       0x32 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000003150                ARNETWORK_IOBuffer_ShouldAcceptData
+ *fill*         0x0000000000003182        0xe 
+ .text.ARNETWORK_IOBuffer_ReadData
+                0x0000000000003190       0x79 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000003190                ARNETWORK_IOBuffer_ReadData
+ *fill*         0x0000000000003209        0x7 
+ .text.ARNETWORK_IOBuffer_GetEstimatedMissPercentage
+                0x0000000000003210       0x32 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                0x0000000000003210                ARNETWORK_IOBuffer_GetEstimatedMissPercentage
+ *fill*         0x0000000000003242        0xe 
+ .text.ARNETWORK_IOBufferParam_DefaultInit
+                0x0000000000003250       0x45 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+                0x0000000000003250                ARNETWORK_IOBufferParam_DefaultInit
+ *fill*         0x0000000000003295        0xb 
+ .text.ARNETWORK_IOBufferParam_Check
+                0x00000000000032a0      0x1eb /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+                0x00000000000032a0                ARNETWORK_IOBufferParam_Check
+ *fill*         0x000000000000348b        0x5 
+ .text.ARNETWORK_Manager_Delete
+                0x0000000000003490      0x15b /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x0000000000003490                ARNETWORK_Manager_Delete
+ *fill*         0x00000000000035eb        0x5 
+ .text.ARNETWORK_Manager_SendingThreadRun
+                0x00000000000035f0       0xdf /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x00000000000035f0                ARNETWORK_Manager_SendingThreadRun
+ *fill*         0x00000000000036cf        0x1 
+ .text.ARNETWORK_Manager_ReceivingThreadRun
+                0x00000000000036d0       0xdf /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x00000000000036d0                ARNETWORK_Manager_ReceivingThreadRun
+ *fill*         0x00000000000037af        0x1 
+ .text.ARNETWORK_Manager_Stop
+                0x00000000000037b0       0xda /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x00000000000037b0                ARNETWORK_Manager_Stop
+ *fill*         0x000000000000388a        0x6 
+ .text.ARNETWORK_Manager_OnDisconnect
+                0x0000000000003890       0x47 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x0000000000003890                ARNETWORK_Manager_OnDisconnect
+ *fill*         0x00000000000038d7        0x9 
+ .text.ARNETWORK_Manager_GetInputDataEventFd
+                0x00000000000038e0       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x00000000000038e0                ARNETWORK_Manager_GetInputDataEventFd
+ *fill*         0x00000000000038f6        0xa 
+ .text.ARNETWORK_Manager_SendData
+                0x0000000000003900       0xd2 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x0000000000003900                ARNETWORK_Manager_SendData
+ *fill*         0x00000000000039d2        0xe 
+ .text.ARNETWORK_Manager_ReadData
+                0x00000000000039e0       0x8e /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x00000000000039e0                ARNETWORK_Manager_ReadData
+ *fill*         0x0000000000003a6e        0x2 
+ .text.ARNETWORK_Manager_TryReadData
+                0x0000000000003a70       0x8e /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x0000000000003a70                ARNETWORK_Manager_TryReadData
+ *fill*         0x0000000000003afe        0x2 
+ .text.ARNETWORK_Manager_ReadDataWithTimeout
+                0x0000000000003b00       0xda /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x0000000000003b00                ARNETWORK_Manager_ReadDataWithTimeout
+ *fill*         0x0000000000003bda        0x6 
+ .text.ARNETWORK_Manager_CreateIOBuffer
+                0x0000000000003be0      0x672 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x0000000000003be0                ARNETWORK_Manager_CreateIOBuffer
+ *fill*         0x0000000000004252        0xe 
+ .text.ARNETWORK_Manager_New
+                0x0000000000004260      0x5e2 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x0000000000004260                ARNETWORK_Manager_New
+ *fill*         0x0000000000004842        0xe 
+ .text.ARNETWORK_Manager_FlushInputBuffer
+                0x0000000000004850       0x4f /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x0000000000004850                ARNETWORK_Manager_FlushInputBuffer
+ *fill*         0x000000000000489f        0x1 
+ .text.ARNETWORK_Manager_FlushOutputBuffer
+                0x00000000000048a0       0x4f /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x00000000000048a0                ARNETWORK_Manager_FlushOutputBuffer
+ *fill*         0x00000000000048ef        0x1 
+ .text.ARNETWORK_Manager_Flush
+                0x00000000000048f0       0x53 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x00000000000048f0                ARNETWORK_Manager_Flush
+ *fill*         0x0000000000004943        0xd 
+ .text.ARNETWORK_Manager_GetEstimatedLatency
+                0x0000000000004950       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x0000000000004950                ARNETWORK_Manager_GetEstimatedLatency
+ *fill*         0x0000000000004966        0xa 
+ .text.ARNETWORK_Manager_GetEstimatedMissPercentage
+                0x0000000000004970       0x64 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x0000000000004970                ARNETWORK_Manager_GetEstimatedMissPercentage
+ *fill*         0x00000000000049d4        0xc 
+ .text.ARNETWORK_Manager_SetMinimumTimeBetweenSends
+                0x00000000000049e0       0x1e /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                0x00000000000049e0                ARNETWORK_Manager_SetMinimumTimeBetweenSends
+ *fill*         0x00000000000049fe        0x2 
+ .text.ARNETWORK_Receiver_Delete
+                0x0000000000004a00       0x1f /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+                0x0000000000004a00                ARNETWORK_Receiver_Delete
+ *fill*         0x0000000000004a1f        0x1 
+ .text.ARNETWORK_Receiver_New
+                0x0000000000004a20      0x144 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+                0x0000000000004a20                ARNETWORK_Receiver_New
+ *fill*         0x0000000000004b64        0xc 
+ .text.ARNETWORK_Receiver_Stop
+                0x0000000000004b70        0x8 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+                0x0000000000004b70                ARNETWORK_Receiver_Stop
+ *fill*         0x0000000000004b78        0x8 
+ .text.ARNETWORK_Receiver_ReturnACK
+                0x0000000000004b80       0x88 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+                0x0000000000004b80                ARNETWORK_Receiver_ReturnACK
+ *fill*         0x0000000000004c08        0x8 
+ .text.ARNETWORK_Receiver_GetEventFd
+                0x0000000000004c10        0x6 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+                0x0000000000004c10                ARNETWORK_Receiver_GetEventFd
+ *fill*         0x0000000000004c16        0xa 
+ .text.ARNETWORK_Receiver_WriteEventFd
+                0x0000000000004c20        0x6 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+                0x0000000000004c20                ARNETWORK_Receiver_WriteEventFd
+ *fill*         0x0000000000004c26        0xa 
+ .text.ARNETWORK_Receiver_ReadEventFd
+                0x0000000000004c30        0x6 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+                0x0000000000004c30                ARNETWORK_Receiver_ReadEventFd
+ *fill*         0x0000000000004c36        0xa 
+ .text.ARNETWORK_Receiver_CopyDataRecv
+                0x0000000000004c40      0x141 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+                0x0000000000004c40                ARNETWORK_Receiver_CopyDataRecv
+ *fill*         0x0000000000004d81        0xf 
+ .text.ARNETWORK_Receiver_ThreadRun
+                0x0000000000004d90      0xb12 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+                0x0000000000004d90                ARNETWORK_Receiver_ThreadRun
+ *fill*         0x00000000000058a2        0xe 
+ .text.ARNETWORK_RingBuffer_Delete
+                0x00000000000058b0       0x40 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                0x00000000000058b0                ARNETWORK_RingBuffer_Delete
+ .text.ARNETWORK_RingBuffer_NewWithOverwriting
+                0x00000000000058f0       0x81 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                0x00000000000058f0                ARNETWORK_RingBuffer_NewWithOverwriting
+ *fill*         0x0000000000005971        0xf 
+ .text.ARNETWORK_RingBuffer_New
+                0x0000000000005980        0x7 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                0x0000000000005980                ARNETWORK_RingBuffer_New
+ *fill*         0x0000000000005987        0x9 
+ .text.ARNETWORK_RingBuffer_PushBackWithSize
+                0x0000000000005990       0xd0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                0x0000000000005990                ARNETWORK_RingBuffer_PushBackWithSize
+ .text.ARNETWORK_RingBuffer_PushBack
+                0x0000000000005a60        0xa /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                0x0000000000005a60                ARNETWORK_RingBuffer_PushBack
+ *fill*         0x0000000000005a6a        0x6 
+ .text.ARNETWORK_RingBuffer_PopFrontWithSize
+                0x0000000000005a70       0xa8 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                0x0000000000005a70                ARNETWORK_RingBuffer_PopFrontWithSize
+ *fill*         0x0000000000005b18        0x8 
+ .text.ARNETWORK_RingBuffer_PopFront
+                0x0000000000005b20        0x8 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                0x0000000000005b20                ARNETWORK_RingBuffer_PopFront
+ *fill*         0x0000000000005b28        0x8 
+ .text.ARNETWORK_RingBuffer_Front
+                0x0000000000005b30       0x5f /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                0x0000000000005b30                ARNETWORK_RingBuffer_Front
+ *fill*         0x0000000000005b8f        0x1 
+ .text.ARNETWORK_RingBuffer_DataPrint
+                0x0000000000005b90      0x232 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                0x0000000000005b90                ARNETWORK_RingBuffer_DataPrint
+ *fill*         0x0000000000005dc2        0xe 
+ .text.ARNETWORK_RingBuffer_Print
+                0x0000000000005dd0      0x380 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                0x0000000000005dd0                ARNETWORK_RingBuffer_Print
+ .text.ARNETWORK_RingBuffer_GetFreeCellNumber
+                0x0000000000006150       0x36 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                0x0000000000006150                ARNETWORK_RingBuffer_GetFreeCellNumber
+ *fill*         0x0000000000006186        0xa 
+ .text.ARNETWORK_RingBuffer_IsEmpty
+                0x0000000000006190       0x32 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                0x0000000000006190                ARNETWORK_RingBuffer_IsEmpty
+ *fill*         0x00000000000061c2        0xe 
+ .text.ARNETWORK_Sender_Delete
+                0x00000000000061d0       0x48 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x00000000000061d0                ARNETWORK_Sender_Delete
+ *fill*         0x0000000000006218        0x8 
+ .text.ARNETWORK_Sender_New
+                0x0000000000006220      0x1d9 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000006220                ARNETWORK_Sender_New
+ *fill*         0x00000000000063f9        0x7 
+ .text.ARNETWORK_Sender_Stop
+                0x0000000000006400        0x8 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000006400                ARNETWORK_Sender_Stop
+ *fill*         0x0000000000006408        0x8 
+ .text.ARNETWORK_Sender_SignalNewData
+                0x0000000000006410        0x9 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000006410                ARNETWORK_Sender_SignalNewData
+ *fill*         0x0000000000006419        0x7 
+ .text.ARNETWORK_Sender_AckReceived
+                0x0000000000006420       0x67 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000006420                ARNETWORK_Sender_AckReceived
+ *fill*         0x0000000000006487        0x9 
+ .text.ARNETWORK_Sender_Flush
+                0x0000000000006490       0x7b /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000006490                ARNETWORK_Sender_Flush
+ *fill*         0x000000000000650b        0x5 
+ .text.ARNETWORK_Sender_Reset
+                0x0000000000006510        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000006510                ARNETWORK_Sender_Reset
+ *fill*         0x0000000000006515        0xb 
+ .text.ARNETWORK_Sender_AddToBuffer
+                0x0000000000006520      0x32a /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000006520                ARNETWORK_Sender_AddToBuffer
+ *fill*         0x000000000000684a        0x6 
+ .text.ARNETWORK_Sender_TimeOutCallback
+                0x0000000000006850      0x129 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000006850                ARNETWORK_Sender_TimeOutCallback
+ *fill*         0x0000000000006979        0x7 
+ .text.ARNETWORK_Sender_ManageTimeOut
+                0x0000000000006980      0x12d /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000006980                ARNETWORK_Sender_ManageTimeOut
+ *fill*         0x0000000000006aad        0x3 
+ .text.ARNETWORK_Sender_ProcessBufferToSend
+                0x0000000000006ab0      0x3c4 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000006ab0                ARNETWORK_Sender_ProcessBufferToSend
+ *fill*         0x0000000000006e74        0xc 
+ .text.ARNETWORK_Sender_ThreadRun
+                0x0000000000006e80      0x2f8 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000006e80                ARNETWORK_Sender_ThreadRun
+ *fill*         0x0000000000007178        0x8 
+ .text.ARNETWORK_Sender_GetPing
+                0x0000000000007180       0x5e /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000007180                ARNETWORK_Sender_GetPing
+ *fill*         0x00000000000071de        0x2 
+ .text.ARNETWORK_Sender_GotPingAck
+                0x00000000000071e0       0x67 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x00000000000071e0                ARNETWORK_Sender_GotPingAck
+ *fill*         0x0000000000007247        0x9 
+ .text.ARNETWORK_Sender_SendPong
+                0x0000000000007250       0x3f /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                0x0000000000007250                ARNETWORK_Sender_SendPong
+ *fill*         0x000000000000728f        0x1 
+ .text.ARNETWORK_Error_ToString
+                0x0000000000007290      0x1d8 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+                0x0000000000007290                ARNETWORK_Error_ToString
+ *(.gnu.warning)
+
+.fini           0x0000000000007468        0x9
+ *(SORT(.fini))
+ .fini          0x0000000000007468        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000007468                _fini
+ .fini          0x000000000000746c        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000007471                PROVIDE (__etext, .)
+                0x0000000000007471                PROVIDE (_etext, .)
+                0x0000000000007471                PROVIDE (etext, .)
+
+.rodata         0x0000000000007480     0x11a8
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000007480       0x39 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ *fill*         0x00000000000074b9        0x7 
+ .rodata.str1.8
+                0x00000000000074c0       0x6c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ *fill*         0x000000000000752c        0x4 
+ .rodata        0x0000000000007530       0x57 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ .rodata.str1.1
+                0x0000000000007587       0x18 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+                                         0x21 (size before relaxing)
+ *fill*         0x000000000000759f        0x1 
+ .rodata.str1.8
+                0x00000000000075a0      0x1f8 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ *fill*         0x0000000000007798        0x8 
+ .rodata        0x00000000000077a0       0x1e /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ .rodata.str1.1
+                0x00000000000077be       0x26 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                                         0x4c (size before relaxing)
+ *fill*         0x00000000000077e4        0x4 
+ .rodata.str1.8
+                0x00000000000077e8      0x201 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ *fill*         0x00000000000079e9       0x17 
+ .rodata        0x0000000000007a00       0xe6 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ .rodata.str1.1
+                0x0000000000007ae6       0x13 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+                                         0x39 (size before relaxing)
+ *fill*         0x0000000000007af9        0x7 
+ .rodata.str1.8
+                0x0000000000007b00      0x374 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ *fill*         0x0000000000007e74        0xc 
+ .rodata        0x0000000000007e80       0x57 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ .rodata.str1.1
+                0x0000000000007ed7       0x69 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                                         0x86 (size before relaxing)
+ .rodata.str1.8
+                0x0000000000007f40       0xf5 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ *fill*         0x0000000000008035        0xb 
+ .rodata        0x0000000000008040       0x3b /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .rodata.str1.1
+                0x000000000000807b       0x11 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                                         0x37 (size before relaxing)
+ *fill*         0x000000000000808c        0x4 
+ .rodata.str1.8
+                0x0000000000008090      0x275 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+ *fill*         0x0000000000008305       0x1b 
+ .rodata        0x0000000000008320       0xc5 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+ .rodata.str1.1
+                0x00000000000083e5      0x14f /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+                                        0x165 (size before relaxing)
+ *fill*         0x0000000000008534        0x4 
+ .rodata.str1.8
+                0x0000000000008538       0xf0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000008628      0x244
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000008628      0x244 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+
+.eh_frame       0x0000000000008870      0xe64
+ *(.eh_frame)
+ .eh_frame      0x0000000000008870       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x00000000000088b0      0x298 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                                        0x270 (size before relaxing)
+ .eh_frame      0x0000000000008b48       0x50 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+                                         0x68 (size before relaxing)
+ .eh_frame      0x0000000000008b98      0x3f0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                                        0x3d8 (size before relaxing)
+ .eh_frame      0x0000000000008f88      0x190 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+                                        0x188 (size before relaxing)
+ .eh_frame      0x0000000000009118      0x240 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .eh_frame      0x0000000000009358      0x360 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                                        0x358 (size before relaxing)
+ .eh_frame      0x00000000000096b8       0x18 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x00000000000096d0        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x00000000000096d4                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x0000000000209db4                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000209db8        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000209db8        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.fini_array     0x0000000000209dc0        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000209dc0        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0000000000209dc8        0x8
+ *(.jcr)
+ .jcr           0x0000000000209dc8        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .jcr           0x0000000000209dc8        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000209dd0      0x200
+ *(.dynamic)
+ .dynamic       0x0000000000209dd0      0x200 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000209dd0                _DYNAMIC
+
+.got            0x0000000000209fd0       0x30
+ *(.got)
+ .got           0x0000000000209fd0       0x30 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000020afe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000020a000      0x2a8
+ *(.got.plt)
+ .got.plt       0x000000000020a000      0x2a8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020a000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000020a2a8        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel      0x000000000020a2a8        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                0x000000000020a2a8                __dso_handle
+
+.tm_clone_table
+                0x000000000020a2b0        0x0
+ .tm_clone_table
+                0x000000000020a2b0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .tm_clone_table
+                0x000000000020a2b0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000020a2b0                _edata = .
+                0x000000000020a2b0                PROVIDE (edata, .)
+                0x000000000020a2b0                . = .
+                0x000000000020a2b0                __bss_start = .
+
+.bss            0x000000000020a2b0        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000020a2b0        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *(COMMON)
+                0x000000000020a2b8                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000020a2b1        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000020a2b8                . = ALIGN (0x8)
+                0x000000000020a2b8                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000060a2b8        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000060a2b8                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000060a2b8                . = ALIGN (0x8)
+                0x000000000060a2b8                _end = .
+                0x000000000060a2b8                PROVIDE (end, .)
+                0x000000000060a2b8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                                         0x2c (size before relaxing)
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x550
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x100 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ .debug_aranges
+                0x0000000000000100       0x40 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ .debug_aranges
+                0x0000000000000140      0x140 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ .debug_aranges
+                0x0000000000000280       0xb0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ .debug_aranges
+                0x0000000000000330       0xe0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .debug_aranges
+                0x0000000000000410      0x110 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+ .debug_aranges
+                0x0000000000000520       0x30 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xac26
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x16a4 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ .debug_info    0x00000000000016a4      0x827 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ .debug_info    0x0000000000001ecb     0x29ef /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ .debug_info    0x00000000000048ba     0x267c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ .debug_info    0x0000000000006f36     0x170a /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .debug_info    0x0000000000008640     0x24da /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+ .debug_info    0x000000000000ab1a      0x10c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+
+.debug_abbrev   0x0000000000000000     0x12cc
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x33b /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ .debug_abbrev  0x000000000000033b      0x1c8 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ .debug_abbrev  0x0000000000000503      0x3c0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ .debug_abbrev  0x00000000000008c3      0x37d /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ .debug_abbrev  0x0000000000000c40      0x2ff /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .debug_abbrev  0x0000000000000f3f      0x317 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+ .debug_abbrev  0x0000000000001256       0x76 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+
+.debug_line     0x0000000000000000     0x210a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x55c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ .debug_line    0x000000000000055c      0x26d /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ .debug_line    0x00000000000007c9      0x82c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ .debug_line    0x0000000000000ff5      0x556 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ .debug_line    0x000000000000154b      0x400 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .debug_line    0x000000000000194b      0x668 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+ .debug_line    0x0000000000001fb3      0x157 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x25ff
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0xfc1 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+                                       0x1031 (size before relaxing)
+ .debug_str     0x0000000000000fc1       0x6a /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+                                        0x89d (size before relaxing)
+ .debug_str     0x000000000000102b      0xfed /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+                                       0x1c9f (size before relaxing)
+ .debug_str     0x0000000000002018      0x1e1 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+                                       0x17dc (size before relaxing)
+ .debug_str     0x00000000000021f9      0x15d /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+                                        0xa4f (size before relaxing)
+ .debug_str     0x0000000000002356      0x275 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+                                       0x191a (size before relaxing)
+ .debug_str     0x00000000000025cb       0x34 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+                                        0x369 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x683c
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x112e /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ .debug_loc     0x000000000000112e      0x10a /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ .debug_loc     0x0000000000001238     0x2369 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ .debug_loc     0x00000000000035a1      0xce0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ .debug_loc     0x0000000000004281      0xee5 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .debug_loc     0x0000000000005166     0x16d6 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0xdd0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x180 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBuffer.c.o
+ .debug_ranges  0x0000000000000180       0x30 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_IOBufferParam.c.o
+ .debug_ranges  0x00000000000001b0      0x2b0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Manager.c.o
+ .debug_ranges  0x0000000000000460      0x480 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Receiver.c.o
+ .debug_ranges  0x00000000000008e0      0x2b0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_RingBuffer.c.o
+ .debug_ranges  0x0000000000000b90      0x220 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/Sources/ARNETWORK_Sender.c.o
+ .debug_ranges  0x0000000000000db0       0x20 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/obj/gen/Sources/ARNETWORK_Error.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/heratom/Firefly-project/out/arsdk-native/build/libARNetwork/libarnetwork.so elf64-x86-64)

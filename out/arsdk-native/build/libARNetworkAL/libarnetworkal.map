@@ -1,0 +1,608 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o (ARSAL_Sem_Wait)
+libpthread.so.0               /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o (write@@GLIBC_2.2.5)
+libc.so.6                     /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o (fflush@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x15c
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x15c /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x0000000000000350      0x888
+ *(.dynsym)
+ .dynsym        0x0000000000000350      0x888 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000bd8      0x82a
+ *(.dynstr)
+ .dynstr        0x0000000000000bd8      0x82a /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x0000000000001402       0xb6
+ *(.gnu.version)
+ .gnu.version   0x0000000000001402       0xb6 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x00000000000014b8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x00000000000014b8       0x80
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000014b8       0x80 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001538      0x1e0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel
+                0x0000000000001538       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001550      0x198 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x00000000000016e8       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000001700       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000001718      0x510
+ *(.rela.plt)
+ .rela.plt      0x0000000000001718      0x510 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000001c28       0x1a
+ *(SORT(.init))
+ .init          0x0000000000001c28       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000001c28                _init
+ .init          0x0000000000001c3d        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000001c50      0x370
+ *(.plt)
+ .plt           0x0000000000001c50      0x370 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.text           0x0000000000001fc0     0x2828
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000001fc0       0xe5 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x00000000000020a5        0xb 
+ .text.ARNETWORKAL_Manager_InitWifiNetwork
+                0x00000000000020b0      0x113 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000020b0                ARNETWORKAL_Manager_InitWifiNetwork
+ *fill*         0x00000000000021c3        0xd 
+ .text.ARNETWORKAL_Manager_CancelWifiNetwork
+                0x00000000000021d0       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000021d0                ARNETWORKAL_Manager_CancelWifiNetwork
+ *fill*         0x00000000000021e6        0xa 
+ .text.ARNETWORKAL_Manager_CloseWifiNetwork
+                0x00000000000021f0       0x16 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000021f0                ARNETWORKAL_Manager_CloseWifiNetwork
+ *fill*         0x0000000000002206        0xa 
+ .text.ARNETWORKAL_Manager_InitBLENetwork
+                0x0000000000002210        0x6 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002210                ARNETWORKAL_Manager_InitBLENetwork
+ *fill*         0x0000000000002216        0xa 
+ .text.ARNETWORKAL_Manager_CancelBLENetwork
+                0x0000000000002220        0x6 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002220                ARNETWORKAL_Manager_CancelBLENetwork
+ *fill*         0x0000000000002226        0xa 
+ .text.ARNETWORKAL_Manager_CloseBLENetwork
+                0x0000000000002230        0x6 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002230                ARNETWORKAL_Manager_CloseBLENetwork
+ *fill*         0x0000000000002236        0xa 
+ .text.ARNETWORKAL_Manager_Delete
+                0x0000000000002240       0x52 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002240                ARNETWORKAL_Manager_Delete
+ *fill*         0x0000000000002292        0xe 
+ .text.ARNETWORKAL_Manager_New
+                0x00000000000022a0      0x11f /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000022a0                ARNETWORKAL_Manager_New
+ *fill*         0x00000000000023bf        0x1 
+ .text.ARNETWORKAL_Manager_Unlock
+                0x00000000000023c0       0x1c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000023c0                ARNETWORKAL_Manager_Unlock
+ *fill*         0x00000000000023dc        0x4 
+ .text.ARNETWORKAL_Manager_GetBandwidth
+                0x00000000000023e0       0x1c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000023e0                ARNETWORKAL_Manager_GetBandwidth
+ *fill*         0x00000000000023fc        0x4 
+ .text.ARNETWORKAL_Manager_BandwidthThread
+                0x0000000000002400       0x13 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002400                ARNETWORKAL_Manager_BandwidthThread
+ *fill*         0x0000000000002413        0xd 
+ .text.ARNETWORKAL_Manager_SetOnDisconnectCallback
+                0x0000000000002420       0x1c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002420                ARNETWORKAL_Manager_SetOnDisconnectCallback
+ *fill*         0x000000000000243c        0x4 
+ .text.ARNETWORKAL_Manager_SetSendBufferSize
+                0x0000000000002440       0x1c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002440                ARNETWORKAL_Manager_SetSendBufferSize
+ *fill*         0x000000000000245c        0x4 
+ .text.ARNETWORKAL_Manager_SetRecvBufferSize
+                0x0000000000002460       0x1c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002460                ARNETWORKAL_Manager_SetRecvBufferSize
+ *fill*         0x000000000000247c        0x4 
+ .text.ARNETWORKAL_Manager_GetSendBufferSize
+                0x0000000000002480       0x1c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002480                ARNETWORKAL_Manager_GetSendBufferSize
+ *fill*         0x000000000000249c        0x4 
+ .text.ARNETWORKAL_Manager_GetRecvBufferSize
+                0x00000000000024a0       0x1c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000024a0                ARNETWORKAL_Manager_GetRecvBufferSize
+ *fill*         0x00000000000024bc        0x4 
+ .text.ARNETWORKAL_Manager_EnableDataDump
+                0x00000000000024c0      0x2c6 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x00000000000024c0                ARNETWORKAL_Manager_EnableDataDump
+ *fill*         0x0000000000002786        0xa 
+ .text.ARNETWORKAL_Manager_DumpData
+                0x0000000000002790       0x36 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                0x0000000000002790                ARNETWORKAL_Manager_DumpData
+ *fill*         0x00000000000027c6        0xa 
+ .text.ARNETWORKAL_WifiNetwork_IsTooLongWithoutReceive
+                0x00000000000027d0      0x125 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ *fill*         0x00000000000028f5        0xb 
+ .text.ARNETWORKAL_WifiNetwork_New
+                0x0000000000002900      0x1cc /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002900                ARNETWORKAL_WifiNetwork_New
+ *fill*         0x0000000000002acc        0x4 
+ .text.ARNETWORKAL_WifiNetwork_Signal
+                0x0000000000002ad0       0x63 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002ad0                ARNETWORKAL_WifiNetwork_Signal
+ *fill*         0x0000000000002b33        0xd 
+ .text.ARNETWORKAL_WifiNetwork_GetBandwidth
+                0x0000000000002b40       0x79 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002b40                ARNETWORKAL_WifiNetwork_GetBandwidth
+ *fill*         0x0000000000002bb9        0x7 
+ .text.ARNETWORKAL_WifiNetwork_BandwidthThread
+                0x0000000000002bc0      0x13b /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002bc0                ARNETWORKAL_WifiNetwork_BandwidthThread
+ *fill*         0x0000000000002cfb        0x5 
+ .text.ARNETWORKAL_WifiNetwork_Cancel
+                0x0000000000002d00        0xc /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002d00                ARNETWORKAL_WifiNetwork_Cancel
+ *fill*         0x0000000000002d0c        0x4 
+ .text.ARNETWORKAL_WifiNetwork_Delete
+                0x0000000000002d10      0x11b /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002d10                ARNETWORKAL_WifiNetwork_Delete
+ *fill*         0x0000000000002e2b        0x5 
+ .text.ARNETWORKAL_WifiNetwork_Connect
+                0x0000000000002e30      0x21f /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000002e30                ARNETWORKAL_WifiNetwork_Connect
+ *fill*         0x000000000000304f        0x1 
+ .text.ARNETWORKAL_WifiNetwork_Bind
+                0x0000000000003050      0x20c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000003050                ARNETWORKAL_WifiNetwork_Bind
+ *fill*         0x000000000000325c        0x4 
+ .text.ARNETWORKAL_WifiNetwork_PushFrame
+                0x0000000000003260      0x34c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000003260                ARNETWORKAL_WifiNetwork_PushFrame
+ *fill*         0x00000000000035ac        0x4 
+ .text.ARNETWORKAL_WifiNetwork_PopFrame
+                0x00000000000035b0      0x103 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x00000000000035b0                ARNETWORKAL_WifiNetwork_PopFrame
+ *fill*         0x00000000000036b3        0xd 
+ .text.ARNETWORKAL_WifiNetwork_Send
+                0x00000000000036c0      0x24b /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x00000000000036c0                ARNETWORKAL_WifiNetwork_Send
+ *fill*         0x000000000000390b        0x5 
+ .text.ARNETWORKAL_WifiNetwork_Receive
+                0x0000000000003910      0x74a /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000003910                ARNETWORKAL_WifiNetwork_Receive
+ *fill*         0x000000000000405a        0x6 
+ .text.ARNETWORKAL_WifiNetwork_SetOnDisconnectCallback
+                0x0000000000004060       0x3e /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000004060                ARNETWORKAL_WifiNetwork_SetOnDisconnectCallback
+ *fill*         0x000000000000409e        0x2 
+ .text.ARNETWORKAL_WifiNetwork_GetSendBufferSize
+                0x00000000000040a0       0x5f /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x00000000000040a0                ARNETWORKAL_WifiNetwork_GetSendBufferSize
+ *fill*         0x00000000000040ff        0x1 
+ .text.ARNETWORKAL_WifiNetwork_SetSendBufferSize
+                0x0000000000004100      0x243 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000004100                ARNETWORKAL_WifiNetwork_SetSendBufferSize
+ *fill*         0x0000000000004343        0xd 
+ .text.ARNETWORKAL_WifiNetwork_GetRecvBufferSize
+                0x0000000000004350       0x5f /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x0000000000004350                ARNETWORKAL_WifiNetwork_GetRecvBufferSize
+ *fill*         0x00000000000043af        0x1 
+ .text.ARNETWORKAL_WifiNetwork_SetRecvBufferSize
+                0x00000000000043b0      0x243 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                0x00000000000043b0                ARNETWORKAL_WifiNetwork_SetRecvBufferSize
+ *fill*         0x00000000000045f3        0xd 
+ .text.ARNETWORKAL_Error_ToString
+                0x0000000000004600      0x1e8 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+                0x0000000000004600                ARNETWORKAL_Error_ToString
+ *(.gnu.warning)
+
+.fini           0x00000000000047e8        0x9
+ *(SORT(.fini))
+ .fini          0x00000000000047e8        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x00000000000047e8                _fini
+ .fini          0x00000000000047ec        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000047f1                PROVIDE (__etext, .)
+                0x00000000000047f1                PROVIDE (_etext, .)
+                0x00000000000047f1                PROVIDE (etext, .)
+
+.rodata         0x0000000000004800      0xb10
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000004800       0x36 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ *fill*         0x0000000000004836        0x2 
+ .rodata.str1.8
+                0x0000000000004838       0xe2 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ *fill*         0x000000000000491a        0x6 
+ .rodata        0x0000000000004920       0x48 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .rodata.str1.1
+                0x0000000000004968       0x1a /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                                         0x23 (size before relaxing)
+ *fill*         0x0000000000004982        0x6 
+ .rodata.str1.8
+                0x0000000000004988      0x4ec /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ *fill*         0x0000000000004e74        0xc 
+ .rodata        0x0000000000004e80      0x1c0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .rodata.str1.1
+                0x0000000000005040      0x14f /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ *fill*         0x000000000000518f        0x1 
+ .rodata.str1.8
+                0x0000000000005190      0x180 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+                                        0x17d (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000005310      0x134
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000005310      0x134 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+
+.eh_frame       0x0000000000005448      0x6a4
+ *(.eh_frame)
+ .eh_frame      0x0000000000005448       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000005488      0x258 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                                        0x218 (size before relaxing)
+ .eh_frame      0x00000000000056e0      0x3f0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                                        0x3e0 (size before relaxing)
+ .eh_frame      0x0000000000005ad0       0x18 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005ae8        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000005aec                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x0000000000205d6c                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000205d70        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000205d70        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.fini_array     0x0000000000205d78        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000205d78        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x0000000000205d80        0x8
+ *(.jcr)
+ .jcr           0x0000000000205d80        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .jcr           0x0000000000205d80        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000205d88      0x1f0
+ *(.dynamic)
+ .dynamic       0x0000000000205d88      0x1f0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000205d88                _DYNAMIC
+
+.got            0x0000000000205f78       0x88
+ *(.got)
+ .got           0x0000000000205f78       0x88 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000206fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000206000      0x1c8
+ *(.got.plt)
+ .got.plt       0x0000000000206000      0x1c8 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000206000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x00000000002061c8        0x8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel      0x00000000002061c8        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                0x00000000002061c8                __dso_handle
+
+.tm_clone_table
+                0x00000000002061d0        0x0
+ .tm_clone_table
+                0x00000000002061d0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .tm_clone_table
+                0x00000000002061d0        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x00000000002061d0                _edata = .
+                0x00000000002061d0                PROVIDE (edata, .)
+                0x00000000002061d0                . = .
+                0x00000000002061d0                __bss_start = .
+
+.bss            0x00000000002061d0        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00000000002061d0        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *(COMMON)
+                0x00000000002061d8                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x00000000002061d1        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x00000000002061d8                . = ALIGN (0x8)
+                0x00000000002061d8                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x00000000006061d8        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x00000000006061d8                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x00000000006061d8                . = ALIGN (0x8)
+                0x00000000006061d8                _end = .
+                0x00000000006061d8                PROVIDE (end, .)
+                0x00000000006061d8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                                         0x2c (size before relaxing)
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x2b0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x140 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .debug_aranges
+                0x0000000000000140      0x140 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .debug_aranges
+                0x0000000000000280       0x30 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x538f
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x1882 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .debug_info    0x0000000000001882     0x39fa /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .debug_info    0x000000000000527c      0x113 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+
+.debug_abbrev   0x0000000000000000      0x882
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x39a /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .debug_abbrev  0x000000000000039a      0x472 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .debug_abbrev  0x000000000000080c       0x76 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+
+.debug_line     0x0000000000000000      0xf56
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x4e7 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .debug_line    0x00000000000004e7      0x8fe /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .debug_line    0x0000000000000de5      0x171 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x19ab
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x106a /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+                                       0x1104 (size before relaxing)
+ .debug_str     0x000000000000106a      0x909 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+                                       0x1569 (size before relaxing)
+ .debug_str     0x0000000000001973       0x38 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+                                        0x404 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x3691
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x119f /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .debug_loc     0x000000000000119f     0x24f2 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x8e0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x1b0 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/ARNETWORKAL_Manager.c.o
+ .debug_ranges  0x00000000000001b0      0x710 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/Sources/Wifi/ARNETWORKAL_WifiNetwork.c.o
+ .debug_ranges  0x00000000000008c0       0x20 /home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/obj/gen/Sources/ARNETWORKAL_Error.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/heratom/Firefly-project/out/arsdk-native/build/libARNetworkAL/libarnetworkal.so elf64-x86-64)

@@ -1,0 +1,23 @@
+Ce document a pour but de retracer les différentes étapes suivies pour faire marche les exemples fournis avec le SDK de parrot.
+
+D'abord il faut installer les sources et paquets demandés par parrot
+
+Les sources se téléchargent avec l'outil repo, qui est donc à installer. Ensuite il faut s'en servir comme indiqué à l'adresse http://developer.parrot.com/docs/SDK3/#download-all-sources
+
+les paquets nécessaires pour compiler le sdk sont répertoriés à l'adresse http://developer.parrot.com/docs/SDK3/#how-to-build-the-sdk
+Il faudra de plus installer les paquets libjson0 et libjson0-dev.
+
+Une fois ces deux étapes accomplies, on peut compiler le sdk avec le script build.sh qui se trouve normalement à la racine du dossier de projet.
+
+Pour les systèmes UNIX comme le notre, utiliser la commande 
+
+./build.sh -p arsdk-native -t build-sdk -j
+
+suivie de 
+
+./build.sh -p arsdk-native -t build-sample -j pour avoir les exemples avec.
+
+Vous disposerez alors de nombreuses bibliothèques, dont les sources sont réparties dans le dossier <répertoire de travail>/packages
+les archives binaires sont dans <répertoire>/out/Unix-base/staging/usr/lib/  pour les systèmes unix (sinon le Unix-base seulement change).
+
+

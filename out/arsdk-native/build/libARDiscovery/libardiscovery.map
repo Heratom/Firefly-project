@@ -1,0 +1,814 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libarsal.so                   /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o (ARSAL_Sem_Wait)
+libarnetworkal.so             /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o (ARNETWORKAL_Manager_Unlock)
+libjson.so                    /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o (json_tokener_parse)
+libavahi-common.so.3          /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o (avahi_alternative_service_name)
+libavahi-client.so.3          /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o (avahi_service_resolver_new)
+libpthread.so.0               /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o (write@@GLIBC_2.2.5)
+libc.so.6                     /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o (strncmp@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .text          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .data          0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .bss           0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+ .gnu_debuglink
+                0x0000000000000000        0xc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarsal.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarnetwork.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libarnetworkal.so
+LOAD /home/heratom/Firefly-project/out/arsdk-native/staging/usr/lib/libjson.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libavahi-common.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libavahi-client.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/librt.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libm.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libpthread.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libpthread.so.0
+LOAD /usr/lib/x86_64-linux-gnu/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/libgcc_s.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000001c8                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000000000001c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000001c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000001f0      0x1cc
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000001f0      0x1cc /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000003c0      0xe10
+ *(.dynsym)
+ .dynsym        0x00000000000003c0      0xe10 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x00000000000011d0      0xfe7
+ *(.dynstr)
+ .dynstr        0x00000000000011d0      0xfe7 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x00000000000021b8      0x12c
+ *(.gnu.version)
+ .gnu.version   0x00000000000021b8      0x12c /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x00000000000022e8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x00000000000022e8       0x80
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000022e8       0x80 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000002368      0x390
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel
+                0x0000000000002368       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro.local
+                0x0000000000002380      0x138 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x00000000000024b8      0x210 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x00000000000026c8       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x00000000000026e0       0x18 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x00000000000026f8      0xa20
+ *(.rela.plt)
+ .rela.plt      0x00000000000026f8      0xa20 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.init           0x0000000000003118       0x1a
+ *(SORT(.init))
+ .init          0x0000000000003118       0x15 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000003118                _init
+ .init          0x000000000000312d        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000003140      0x6d0
+ *(.plt)
+ .plt           0x0000000000003140      0x6d0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.text           0x0000000000003810     0x5390
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000003810       0xe5 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *fill*         0x00000000000038f5        0xb 
+ .text.ARDISCOVERY_Connection_CreateSocket
+                0x0000000000003900       0x87 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ *fill*         0x0000000000003987        0x9 
+ .text.ARDISCOVERY_Connection_RxPending
+                0x0000000000003990      0x51e /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ *fill*         0x0000000000003eae        0x2 
+ .text.ARDISCOVERY_Connection_TxPending
+                0x0000000000003eb0      0x3a7 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ *fill*         0x0000000000004257        0x9 
+ .text.ARDISCOVERY_Connection_ControllerInitSocket
+                0x0000000000004260      0x70e /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ *fill*         0x000000000000496e        0x2 
+ .text.ARDISCOVERY_Connection_Delete
+                0x0000000000004970       0xe4 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x0000000000004970                ARDISCOVERY_Connection_Delete
+ *fill*         0x0000000000004a54        0xc 
+ .text.ARDISCOVERY_Connection_New
+                0x0000000000004a60      0x157 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x0000000000004a60                ARDISCOVERY_Connection_New
+ *fill*         0x0000000000004bb7        0x9 
+ .text.ARDISCOVERY_Connection_DeviceListeningLoop
+                0x0000000000004bc0      0x682 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x0000000000004bc0                ARDISCOVERY_Connection_DeviceListeningLoop
+ *fill*         0x0000000000005242        0xe 
+ .text.ARDISCOVERY_Connection_Device_StopListening
+                0x0000000000005250       0x42 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x0000000000005250                ARDISCOVERY_Connection_Device_StopListening
+ *fill*         0x0000000000005292        0xe 
+ .text.ARDISCOVERY_Connection_ControllerConnection
+                0x00000000000052a0       0x8a /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x00000000000052a0                ARDISCOVERY_Connection_ControllerConnection
+ *fill*         0x000000000000532a        0x6 
+ .text.ARDISCOVERY_Connection_getControllerIP
+                0x0000000000005330       0x1d /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                0x0000000000005330                ARDISCOVERY_Connection_getControllerIP
+ *fill*         0x000000000000534d        0x3 
+ .text.ARDISCOVERY_getProductService
+                0x0000000000005350       0x24 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x0000000000005350                ARDISCOVERY_getProductService
+ *fill*         0x0000000000005374        0xc 
+ .text.ARDISCOVERY_getProductID
+                0x0000000000005380        0xe /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x0000000000005380                ARDISCOVERY_getProductID
+ *fill*         0x000000000000538e        0x2 
+ .text.ARDISCOVERY_getProductName
+                0x0000000000005390       0x1b /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x0000000000005390                ARDISCOVERY_getProductName
+ *fill*         0x00000000000053ab        0x5 
+ .text.ARDISCOVERY_getProductPathName
+                0x00000000000053b0       0x7b /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x00000000000053b0                ARDISCOVERY_getProductPathName
+ *fill*         0x000000000000542b        0x5 
+ .text.ARDISCOVERY_getProductFromName
+                0x0000000000005430       0x53 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x0000000000005430                ARDISCOVERY_getProductFromName
+ *fill*         0x0000000000005483        0xd 
+ .text.ARDISCOVERY_getProductFromPathName
+                0x0000000000005490       0xf3 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x0000000000005490                ARDISCOVERY_getProductFromPathName
+ *fill*         0x0000000000005583        0xd 
+ .text.ARDISCOVERY_getProductFromProductID
+                0x0000000000005590       0x34 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x0000000000005590                ARDISCOVERY_getProductFromProductID
+ *fill*         0x00000000000055c4        0xc 
+ .text.ARDISCOVERY_getProductFamily
+                0x00000000000055d0       0x18 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                0x00000000000055d0                ARDISCOVERY_getProductFamily
+ *fill*         0x00000000000055e8        0x8 
+ .text.ARDISCOVERY_Device_Delete
+                0x00000000000055f0       0x4d /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x00000000000055f0                ARDISCOVERY_Device_Delete
+ *fill*         0x000000000000563d        0x3 
+ .text.ARDISCOVERY_Device_New
+                0x0000000000005640       0x86 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005640                ARDISCOVERY_Device_New
+ *fill*         0x00000000000056c6        0xa 
+ .text.ARDISCOVERY_Device_NewByCopy
+                0x00000000000056d0      0x102 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x00000000000056d0                ARDISCOVERY_Device_NewByCopy
+ *fill*         0x00000000000057d2        0xe 
+ .text.ARDISCOVERY_Device_NewARNetworkAL
+                0x00000000000057e0      0x22a /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x00000000000057e0                ARDISCOVERY_Device_NewARNetworkAL
+ *fill*         0x0000000000005a0a        0x6 
+ .text.ARDISCOVERY_Device_DeleteARNetworkAL
+                0x0000000000005a10       0x26 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005a10                ARDISCOVERY_Device_DeleteARNetworkAL
+ *fill*         0x0000000000005a36        0xa 
+ .text.ARDISCOVERY_Device_InitNetworkConfiguration
+                0x0000000000005a40       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005a40                ARDISCOVERY_Device_InitNetworkConfiguration
+ *fill*         0x0000000000005a6c        0x4 
+ .text.ARDISCOVERY_Device_InitWifi
+                0x0000000000005a70      0x1ea /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005a70                ARDISCOVERY_Device_InitWifi
+ *fill*         0x0000000000005c5a        0x6 
+ .text.ARDISCOVERY_Device_WifiAddConnectionCallbacks
+                0x0000000000005c60        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005c60                ARDISCOVERY_Device_WifiAddConnectionCallbacks
+ *fill*         0x0000000000005c65        0xb 
+ .text.ARDISCOVERY_DEVICE_WifiGetIpAddress
+                0x0000000000005c70        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005c70                ARDISCOVERY_DEVICE_WifiGetIpAddress
+ *fill*         0x0000000000005c75        0xb 
+ .text.ARDISCOVERY_Device_InitBLE
+                0x0000000000005c80      0x16a /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                0x0000000000005c80                ARDISCOVERY_Device_InitBLE
+ *fill*         0x0000000000005dea        0x6 
+ .text.ARDISCOVERY_DEVICE_Wifi_SendJsonCallback
+                0x0000000000005df0       0xd8 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000005df0                ARDISCOVERY_DEVICE_Wifi_SendJsonCallback
+ *fill*         0x0000000000005ec8        0x8 
+ .text.ARDISCOVERY_DEVICE_Wifi_ReceiveJsonCallback
+                0x0000000000005ed0       0xb3 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000005ed0                ARDISCOVERY_DEVICE_Wifi_ReceiveJsonCallback
+ *fill*         0x0000000000005f83        0xd 
+ .text.ARDISCOVERY_DEVICE_Wifi_DeleteSpecificParameters
+                0x0000000000005f90       0x6f /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000005f90                ARDISCOVERY_DEVICE_Wifi_DeleteSpecificParameters
+ *fill*         0x0000000000005fff        0x1 
+ .text.ARDISCOVERY_DEVICE_Wifi_CreateSpecificParameters
+                0x0000000000006000       0xba /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006000                ARDISCOVERY_DEVICE_Wifi_CreateSpecificParameters
+ *fill*         0x00000000000060ba        0x6 
+ .text.ARDISCOVERY_DEVICE_Wifi_GetCopyOfSpecificParameters
+                0x00000000000060c0       0xd2 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x00000000000060c0                ARDISCOVERY_DEVICE_Wifi_GetCopyOfSpecificParameters
+ *fill*         0x0000000000006192        0xe 
+ .text.ARDISCOVERY_DEVICE_Wifi_AddConnectionCallbacks
+                0x00000000000061a0       0x57 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x00000000000061a0                ARDISCOVERY_DEVICE_Wifi_AddConnectionCallbacks
+ *fill*         0x00000000000061f7        0x9 
+ .text.ARDISCOVERY_DEVICE_Wifi_DeleteARNetworkAL
+                0x0000000000006200       0x5f /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006200                ARDISCOVERY_DEVICE_Wifi_DeleteARNetworkAL
+ *fill*         0x000000000000625f        0x1 
+ .text.ARDISCOVERY_DEVICE_Wifi_GetIpAddress
+                0x0000000000006260       0x71 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006260                ARDISCOVERY_DEVICE_Wifi_GetIpAddress
+ *fill*         0x00000000000062d1        0xf 
+ .text.ARDISCOVERY_DEVICE_Wifi_InitBebopNetworkConfiguration
+                0x00000000000062e0       0x97 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x00000000000062e0                ARDISCOVERY_DEVICE_Wifi_InitBebopNetworkConfiguration
+ *fill*         0x0000000000006377        0x9 
+ .text.ARDISCOVERY_DEVICE_Wifi_InitSkyControllerNetworkConfiguration
+                0x0000000000006380        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006380                ARDISCOVERY_DEVICE_Wifi_InitSkyControllerNetworkConfiguration
+ *fill*         0x0000000000006385        0xb 
+ .text.ARDISCOVERY_DEVICE_Wifi_InitBebop2NetworkConfiguration
+                0x0000000000006390        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006390                ARDISCOVERY_DEVICE_Wifi_InitBebop2NetworkConfiguration
+ *fill*         0x0000000000006395        0xb 
+ .text.ARDISCOVERY_DEVICE_Wifi_InitJumpingSumoNetworkConfiguration
+                0x00000000000063a0       0xb6 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x00000000000063a0                ARDISCOVERY_DEVICE_Wifi_InitJumpingSumoNetworkConfiguration
+ *fill*         0x0000000000006456        0xa 
+ .text.ARDISCOVERY_DEVICE_Wifi_InitUnknown_Product_1NetworkConfiguration
+                0x0000000000006460       0x95 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006460                ARDISCOVERY_DEVICE_Wifi_InitUnknown_Product_1NetworkConfiguration
+ *fill*         0x00000000000064f5        0xb 
+ .text.ARDISCOVERY_DEVICE_Wifi_InitEvinrudeNetworkConfiguration
+                0x0000000000006500        0x5 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006500                ARDISCOVERY_DEVICE_Wifi_InitEvinrudeNetworkConfiguration
+ *fill*         0x0000000000006505        0xb 
+ .text.ARDISCOVERY_DEVICE_Wifi_DiscoveryConnect
+                0x0000000000006510       0x9d /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x0000000000006510                ARDISCOVERY_DEVICE_Wifi_DiscoveryConnect
+ *fill*         0x00000000000065ad        0x3 
+ .text.ARDISCOVERY_DEVICE_Wifi_NewARNetworkAL
+                0x00000000000065b0      0x119 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                0x00000000000065b0                ARDISCOVERY_DEVICE_Wifi_NewARNetworkAL
+ *fill*         0x00000000000066c9        0x7 
+ .text.ARDISCOVERY_DEVICE_Ble_DeleteSpecificParameters
+                0x00000000000066d0       0x3f /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                0x00000000000066d0                ARDISCOVERY_DEVICE_Ble_DeleteSpecificParameters
+ *fill*         0x000000000000670f        0x1 
+ .text.ARDISCOVERY_DEVICE_Ble_CreateSpecificParameters
+                0x0000000000006710       0x62 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                0x0000000000006710                ARDISCOVERY_DEVICE_Ble_CreateSpecificParameters
+ *fill*         0x0000000000006772        0xe 
+ .text.ARDISCOVERY_DEVICE_Ble_GetCopyOfSpecificParameters
+                0x0000000000006780       0x78 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                0x0000000000006780                ARDISCOVERY_DEVICE_Ble_GetCopyOfSpecificParameters
+ *fill*         0x00000000000067f8        0x8 
+ .text.ARDISCOVERY_DEVICE_Ble_DeleteARNetworkAL
+                0x0000000000006800       0x64 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                0x0000000000006800                ARDISCOVERY_DEVICE_Ble_DeleteARNetworkAL
+ *fill*         0x0000000000006864        0xc 
+ .text.ARDISCOVERY_DEVICE_Ble_NewARNetworkAL
+                0x0000000000006870      0x111 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                0x0000000000006870                ARDISCOVERY_DEVICE_Ble_NewARNetworkAL
+ *fill*         0x0000000000006981        0xf 
+ .text.ARDISCOVERY_DEVICE_Ble_InitRollingSpiderNetworkConfiguration
+                0x0000000000006990       0xb6 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                0x0000000000006990                ARDISCOVERY_DEVICE_Ble_InitRollingSpiderNetworkConfiguration
+ *fill*         0x0000000000006a46        0xa 
+ .text.ARDISCOVERY_Error_ToString
+                0x0000000000006a50      0x3a8 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+                0x0000000000006a50                ARDISCOVERY_Error_ToString
+ *fill*         0x0000000000006df8        0x8 
+ .text.ARDISCOVERY_AvahiDiscovery_CreateService
+                0x0000000000006e00      0x26b /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ *fill*         0x000000000000706b        0x5 
+ .text.ARDISCOVERY_AvahiDiscovery_EntryGroupCb
+                0x0000000000007070      0x2e8 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ *fill*         0x0000000000007358        0x8 
+ .text.ARDISCOVERY_AvahiDiscovery_Publisher_ClientCb
+                0x0000000000007360      0x1ed /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ *fill*         0x000000000000754d        0x3 
+ .text.ARDISCOVERY_AvahiDiscovery_Browser_BrowseCb
+                0x0000000000007550      0x2ea /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ *fill*         0x000000000000783a        0x6 
+ .text.ARDISCOVERY_AvahiDiscovery_Browser_ResolveCb
+                0x0000000000007840      0x219 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ *fill*         0x0000000000007a59        0x7 
+ .text.ARDISCOVERY_AvahiDiscovery_Browser_ClientCb
+                0x0000000000007a60      0x18e /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ *fill*         0x0000000000007bee        0x2 
+ .text.ARDISCOVERY_AvahiDiscovery_ResetService
+                0x0000000000007bf0      0x239 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x0000000000007bf0                ARDISCOVERY_AvahiDiscovery_ResetService
+ *fill*         0x0000000000007e29        0x7 
+ .text.ARDISCOVERY_AvahiDiscovery_Publish
+                0x0000000000007e30      0x310 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x0000000000007e30                ARDISCOVERY_AvahiDiscovery_Publish
+ .text.ARDISCOVERY_AvahiDiscovery_StopPublishing
+                0x0000000000008140       0x1a /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x0000000000008140                ARDISCOVERY_AvahiDiscovery_StopPublishing
+ *fill*         0x000000000000815a        0x6 
+ .text.ARDISCOVERY_AvahiDiscovery_Publisher_Delete
+                0x0000000000008160       0x75 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x0000000000008160                ARDISCOVERY_AvahiDiscovery_Publisher_Delete
+ *fill*         0x00000000000081d5        0xb 
+ .text.ARDISCOVERY_AvahiDiscovery_Publisher_New
+                0x00000000000081e0      0x277 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x00000000000081e0                ARDISCOVERY_AvahiDiscovery_Publisher_New
+ *fill*         0x0000000000008457        0x9 
+ .text.ARDISCOVERY_AvahiDiscovery_Browse
+                0x0000000000008460      0x45a /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x0000000000008460                ARDISCOVERY_AvahiDiscovery_Browse
+ *fill*         0x00000000000088ba        0x6 
+ .text.ARDISCOVERY_AvahiDiscovery_StopBrowsing
+                0x00000000000088c0       0x1a /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x00000000000088c0                ARDISCOVERY_AvahiDiscovery_StopBrowsing
+ *fill*         0x00000000000088da        0x6 
+ .text.ARDISCOVERY_AvahiDiscovery_Browser_Delete
+                0x00000000000088e0       0x72 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x00000000000088e0                ARDISCOVERY_AvahiDiscovery_Browser_Delete
+ *fill*         0x0000000000008952        0xe 
+ .text.ARDISCOVERY_AvahiDiscovery_Browser_New
+                0x0000000000008960      0x240 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                0x0000000000008960                ARDISCOVERY_AvahiDiscovery_Browser_New
+ *(.gnu.warning)
+
+.fini           0x0000000000008ba0        0x9
+ *(SORT(.fini))
+ .fini          0x0000000000008ba0        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x0000000000008ba0                _fini
+ .fini          0x0000000000008ba4        0x5 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o
+                0x0000000000008ba9                PROVIDE (__etext, .)
+                0x0000000000008ba9                PROVIDE (_etext, .)
+                0x0000000000008ba9                PROVIDE (etext, .)
+
+.rodata         0x0000000000008bc0     0x1149
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000008bc0       0x3f /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ *fill*         0x0000000000008bff        0x1 
+ .rodata.str1.8
+                0x0000000000008c00      0x313 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ *fill*         0x0000000000008f13        0xd 
+ .rodata        0x0000000000008f20      0x18b /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .rodata.str1.1
+                0x00000000000090ab       0xaa /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                                         0xab (size before relaxing)
+ *fill*         0x0000000000009155        0xb 
+ .rodata        0x0000000000009160       0x5a /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .rodata.str1.1
+                0x00000000000091ba       0x13 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                                         0x39 (size before relaxing)
+ *fill*         0x00000000000091cd        0x3 
+ .rodata.str1.8
+                0x00000000000091d0       0x28 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ *fill*         0x00000000000091f8        0x8 
+ .rodata        0x0000000000009200       0xa2 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .rodata.str1.1
+                0x00000000000092a2       0x1c /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .rodata.str1.1
+                0x00000000000092be      0x28a /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .rodata.str1.8
+                0x0000000000009548      0x205 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .rodata.str1.1
+                0x000000000000974d       0x21 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                                         0x47 (size before relaxing)
+ *fill*         0x000000000000976e        0x2 
+ .rodata.str1.8
+                0x0000000000009770      0x2e0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                                        0x2d9 (size before relaxing)
+ *fill*         0x0000000000009a50       0x10 
+ .rodata        0x0000000000009a60      0x2a9 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000009d0c      0x21c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000009d0c      0x21c /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+
+.eh_frame       0x0000000000009f28      0xd7c
+ *(.eh_frame)
+ .eh_frame      0x0000000000009f28       0x40 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000009f68      0x270 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                                        0x260 (size before relaxing)
+ .eh_frame      0x000000000000a1d8      0x130 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                                        0x128 (size before relaxing)
+ .eh_frame      0x000000000000a308      0x1b8 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                                        0x1b0 (size before relaxing)
+ .eh_frame      0x000000000000a4c0      0x300 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                                        0x2e8 (size before relaxing)
+ .eh_frame      0x000000000000a7c0      0x130 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                                        0x140 (size before relaxing)
+ .eh_frame      0x000000000000a8f0       0x18 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x000000000000a908      0x398 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                                        0x388 (size before relaxing)
+ .eh_frame      0x000000000000aca0        0x4 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000000000000aca4                . = (ALIGN (0x200000) - ((0x200000 - .) & 0x1fffff))
+                0x000000000020bc7c                . = DATA_SEGMENT_ALIGN (0x200000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x000000000020bc80        0x8
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x000000000020bc80        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.fini_array     0x000000000020bc88        0x8
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x000000000020bc88        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x000000000020bc90        0x8
+ *(.jcr)
+ .jcr           0x000000000020bc90        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .jcr           0x000000000020bc90        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data.rel.ro    0x000000000020bca0       0x68
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x000000000020bca0       0x68 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x000000000020bd08      0x230
+ *(.dynamic)
+ .dynamic       0x000000000020bd08      0x230 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020bd08                _DYNAMIC
+
+.got            0x000000000020bf38       0xb0
+ *(.got)
+ .got           0x000000000020bf38       0xb0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x000000000020bfe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x000000000020c000      0x378
+ *(.got.plt)
+ .got.plt       0x000000000020c000      0x378 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+                0x000000000020c000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000000000020c380      0x3a0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel      0x000000000020c380        0x8 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                0x000000000020c380                __dso_handle
+ *fill*         0x000000000020c388       0x18 
+ .data          0x000000000020c3a0      0x2c0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .data          0x000000000020c660       0xc0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+
+.tm_clone_table
+                0x000000000020c720        0x0
+ .tm_clone_table
+                0x000000000020c720        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ .tm_clone_table
+                0x000000000020c720        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000020c720                _edata = .
+                0x000000000020c720                PROVIDE (edata, .)
+                0x000000000020c720                . = .
+                0x000000000020c720                __bss_start = .
+
+.bss            0x000000000020c720        0x8
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000020c720        0x1 /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+ *(COMMON)
+                0x000000000020c728                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x000000000020c721        0x7 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000020c728                . = ALIGN (0x8)
+                0x000000000020c728                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000060c728        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000060c728                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000060c728                . = ALIGN (0x8)
+                0x000000000060c728                _end = .
+                0x000000000060c728                PROVIDE (end, .)
+                0x000000000060c728                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o
+                                         0x2c (size before relaxing)
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .comment       0x0000000000000000       0x2c /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x500
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0xc0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .debug_aranges
+                0x00000000000000c0       0xa0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .debug_aranges
+                0x0000000000000160       0xc0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .debug_aranges
+                0x0000000000000220      0x120 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .debug_aranges
+                0x0000000000000340       0x80 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .debug_aranges
+                0x00000000000003c0       0x30 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .debug_aranges
+                0x00000000000003f0      0x110 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xba59
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x338d /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .debug_info    0x000000000000338d      0x5eb /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .debug_info    0x0000000000003978     0x172a /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .debug_info    0x00000000000050a2     0x1c3a /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .debug_info    0x0000000000006cdc     0x10a1 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .debug_info    0x0000000000007d7d      0x19c /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .debug_info    0x0000000000007f19     0x3b40 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.debug_abbrev   0x0000000000000000     0x1461
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x42d /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .debug_abbrev  0x000000000000042d      0x1d1 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .debug_abbrev  0x00000000000005fe      0x2ab /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .debug_abbrev  0x00000000000008a9      0x3bb /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .debug_abbrev  0x0000000000000c64      0x28e /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .debug_abbrev  0x0000000000000ef2       0x7d /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .debug_abbrev  0x0000000000000f6f      0x4f2 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.debug_line     0x0000000000000000     0x2380
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x7aa /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .debug_line    0x00000000000007aa      0x249 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .debug_line    0x00000000000009f3      0x59a /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .debug_line    0x0000000000000f8d      0x6e1 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .debug_line    0x000000000000166e      0x436 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .debug_line    0x0000000000001aa4      0x216 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .debug_line    0x0000000000001cba      0x6c6 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x39c9
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x107b /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+                                       0x1128 (size before relaxing)
+ .debug_str     0x000000000000107b      0x53b /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+                                        0x6c8 (size before relaxing)
+ .debug_str     0x00000000000015b6      0xe5e /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+                                       0x1aa9 (size before relaxing)
+ .debug_str     0x0000000000002414      0x59c /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+                                       0x1e73 (size before relaxing)
+ .debug_str     0x00000000000029b0      0x1ec /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+                                       0x19d7 (size before relaxing)
+ .debug_str     0x0000000000002b9c       0x38 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+                                        0x5df (size before relaxing)
+ .debug_str     0x0000000000002bd4      0xdf5 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+                                       0x17f3 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x79bc
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x21b1 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .debug_loc     0x00000000000021b1      0x6f1 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .debug_loc     0x00000000000028a2      0xb73 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .debug_loc     0x0000000000003415     0x16f7 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .debug_loc     0x0000000000004b0c      0x8d5 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .debug_loc     0x00000000000053e1     0x25db /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0xde0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x7d0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Connection.c.o
+ .debug_ranges  0x00000000000007d0       0xf0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Discovery.c.o
+ .debug_ranges  0x00000000000008c0       0xe0 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_Device.c.o
+ .debug_ranges  0x00000000000009a0      0x150 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/Wifi/ARDISCOVERY_DEVICE_Wifi.c.o
+ .debug_ranges  0x0000000000000af0       0x70 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/BLE/ARDISCOVERY_DEVICE_Ble.c.o
+ .debug_ranges  0x0000000000000b60       0x20 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/gen/Sources/ARDISCOVERY_Error.c.o
+ .debug_ranges  0x0000000000000b80      0x260 /home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/obj/Sources/ARDISCOVERY_AvahiDiscovery.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(/home/heratom/Firefly-project/out/arsdk-native/build/libARDiscovery/libardiscovery.so elf64-x86-64)
