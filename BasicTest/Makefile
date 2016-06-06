@@ -17,6 +17,9 @@ Move : Move.o ihm.o
 %.o: %.c
 	$(CC) $(INCLUDES) -I$(LIB)/Samples/Unix/BebopPilotingNewAPI/ -o $@ -c $< $(CFLAGS)
 	
+BebopPiloting.o:
+	$(CC) $(INCLUDES) -I$(LIB)/Samples/Unix/BebopPilotingNewAPI/ -o $@ -c $(LIB)/Samples/Unix/BebopPilotingNewAPI/BebopPiloting.c $(CFLAGS)
+	
 clean :
 	rm *.o *~ $(EXEC)
 	
