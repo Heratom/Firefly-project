@@ -20,4 +20,11 @@ suivie de
 Vous disposerez alors de nombreuses bibliothèques, dont les sources sont réparties dans le dossier <répertoire de travail>/packages
 les archives binaires sont dans <répertoire>/out/Unix-base/staging/usr/lib/  pour les systèmes unix (sinon le Unix-base seulement change).
 
+Pour l'exécution des exemples compilés, ne pas oublier d'ajouter le chemin <racine>/out/arsdk-native/staging/usr/lib dans la variable d'environnement LD_LIBRARY_PATH!
 
+
+////          NEW : primitives de déplacement 			////
+
+Construite à partir du code de l'exemple BebopPilotingNewAPI, le gros changement est la manière d'appeler le déplacement : l'exemple gère tout avec des threads, qui scrutent les interruptions clavier et agissent en conséquence. Ce qu'on veut, c'est pourvoir planifier les mouvements à la compilation, il a donc fallu créer plusieurs fonctions permettant un déplacement absolu en mètres (ou une rotation en angle).
+Dans les deux cas, ils y a deux structures incontournables : le deviceController et l'IHM. Le deviceController est rattaché à l'IHM, il est contenu dans le champ 'customData' de l'IHM. L'IHM sert surtout à récupérer le flux vidéo et à afficher des messages dans la fenêtre du flux. C'est le deviceController qui envoit les ordres de mouvement.
+Plusieurs callbacks ont été conservés, pour sortir du programme ou afficher le niveau de batterie (callback nécessaires pour le flux vidéo)
